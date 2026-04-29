@@ -1,0 +1,217 @@
+as_of_date,match_id,market_type,outcome,p_model,confidence,model_version,notes
+2026-04-28,WC26-MEX-RSA-2026-06-11,match_1x2,home,0.4424,low,form-last-10-v0.1,Mexico L10 GF/GA=1.13/0.85 | South Africa L10=1.48/1.20
+2026-04-28,WC26-MEX-RSA-2026-06-11,match_1x2,draw,0.2752,low,form-last-10-v0.1,Mexico L10 GF/GA=1.13/0.85 | South Africa L10=1.48/1.20
+2026-04-28,WC26-MEX-RSA-2026-06-11,match_1x2,away,0.2823,low,form-last-10-v0.1,Mexico L10 GF/GA=1.13/0.85 | South Africa L10=1.48/1.20
+2026-04-28,WC26-KOR-CZE-2026-06-11,match_1x2,home,0.3444,low,form-last-10-v0.1,South Korea L10 GF/GA=1.55/1.13 | Czech Republic L10=2.00/1.27
+2026-04-28,WC26-KOR-CZE-2026-06-11,match_1x2,draw,0.2437,low,form-last-10-v0.1,South Korea L10 GF/GA=1.55/1.13 | Czech Republic L10=2.00/1.27
+2026-04-28,WC26-KOR-CZE-2026-06-11,match_1x2,away,0.4119,low,form-last-10-v0.1,South Korea L10 GF/GA=1.55/1.13 | Czech Republic L10=2.00/1.27
+2026-04-28,WC26-CAN-BIH-2026-06-12,match_1x2,home,0.4019,low,form-last-10-v0.1,Canada L10 GF/GA=1.04/0.42 | Bosnia and Herzegovina L10=1.97/1.08
+2026-04-28,WC26-CAN-BIH-2026-06-12,match_1x2,draw,0.285,low,form-last-10-v0.1,Canada L10 GF/GA=1.04/0.42 | Bosnia and Herzegovina L10=1.97/1.08
+2026-04-28,WC26-CAN-BIH-2026-06-12,match_1x2,away,0.3131,low,form-last-10-v0.1,Canada L10 GF/GA=1.04/0.42 | Bosnia and Herzegovina L10=1.97/1.08
+2026-04-28,WC26-USA-PAR-2026-06-12,match_1x2,home,0.4554,low,form-last-10-v0.1,United States L10 GF/GA=1.75/1.69 | Paraguay L10=0.96/0.89
+2026-04-28,WC26-USA-PAR-2026-06-12,match_1x2,draw,0.2552,low,form-last-10-v0.1,United States L10 GF/GA=1.75/1.69 | Paraguay L10=0.96/0.89
+2026-04-28,WC26-USA-PAR-2026-06-12,match_1x2,away,0.2894,low,form-last-10-v0.1,United States L10 GF/GA=1.75/1.69 | Paraguay L10=0.96/0.89
+2026-04-28,WC26-QAT-SUI-2026-06-13,match_1x2,home,0.131,low,form-last-10-v0.1,Qatar L10 GF/GA=0.81/1.70 | Switzerland L10=2.28/0.68
+2026-04-28,WC26-QAT-SUI-2026-06-13,match_1x2,draw,0.2035,low,form-last-10-v0.1,Qatar L10 GF/GA=0.81/1.70 | Switzerland L10=2.28/0.68
+2026-04-28,WC26-QAT-SUI-2026-06-13,match_1x2,away,0.6655,low,form-last-10-v0.1,Qatar L10 GF/GA=0.81/1.70 | Switzerland L10=2.28/0.68
+2026-04-28,WC26-BRA-MAR-2026-06-13,match_1x2,home,0.2914,low,form-last-10-v0.1,Brazil L10 GF/GA=1.67/0.77 | Morocco L10=1.74/0.31
+2026-04-28,WC26-BRA-MAR-2026-06-13,match_1x2,draw,0.2844,low,form-last-10-v0.1,Brazil L10 GF/GA=1.67/0.77 | Morocco L10=1.74/0.31
+2026-04-28,WC26-BRA-MAR-2026-06-13,match_1x2,away,0.4242,low,form-last-10-v0.1,Brazil L10 GF/GA=1.67/0.77 | Morocco L10=1.74/0.31
+2026-04-28,WC26-HAI-SCO-2026-06-13,match_1x2,home,0.3249,low,form-last-10-v0.1,Haiti L10 GF/GA=1.30/1.03 | Scotland L10=1.94/1.25
+2026-04-28,WC26-HAI-SCO-2026-06-13,match_1x2,draw,0.2536,low,form-last-10-v0.1,Haiti L10 GF/GA=1.30/1.03 | Scotland L10=1.94/1.25
+2026-04-28,WC26-HAI-SCO-2026-06-13,match_1x2,away,0.4215,low,form-last-10-v0.1,Haiti L10 GF/GA=1.30/1.03 | Scotland L10=1.94/1.25
+2026-04-28,WC26-AUS-TUR-2026-06-13,match_1x2,home,0.3607,low,form-last-10-v0.1,Australia L10 GF/GA=1.60/0.89 | Turkey L10=2.18/1.30
+2026-04-28,WC26-AUS-TUR-2026-06-13,match_1x2,draw,0.2434,low,form-last-10-v0.1,Australia L10 GF/GA=1.60/0.89 | Turkey L10=2.18/1.30
+2026-04-28,WC26-AUS-TUR-2026-06-13,match_1x2,away,0.3958,low,form-last-10-v0.1,Australia L10 GF/GA=1.60/0.89 | Turkey L10=2.18/1.30
+2026-04-28,WC26-GER-CUW-2026-06-14,match_1x2,home,0.4824,low,form-last-10-v0.1,Germany L10 GF/GA=2.49/0.89 | Curaçao L10=1.80/1.12
+2026-04-28,WC26-GER-CUW-2026-06-14,match_1x2,draw,0.2302,low,form-last-10-v0.1,Germany L10 GF/GA=2.49/0.89 | Curaçao L10=1.80/1.12
+2026-04-28,WC26-GER-CUW-2026-06-14,match_1x2,away,0.2874,low,form-last-10-v0.1,Germany L10 GF/GA=2.49/0.89 | Curaçao L10=1.80/1.12
+2026-04-28,WC26-CIV-ECU-2026-06-14,match_1x2,home,0.4622,low,form-last-10-v0.1,Ivory Coast L10 GF/GA=2.09/0.92 | Ecuador L10=0.66/0.35
+2026-04-28,WC26-CIV-ECU-2026-06-14,match_1x2,draw,0.2978,low,form-last-10-v0.1,Ivory Coast L10 GF/GA=2.09/0.92 | Ecuador L10=0.66/0.35
+2026-04-28,WC26-CIV-ECU-2026-06-14,match_1x2,away,0.24,low,form-last-10-v0.1,Ivory Coast L10 GF/GA=2.09/0.92 | Ecuador L10=0.66/0.35
+2026-04-28,WC26-NED-JPN-2026-06-14,match_1x2,home,0.5073,low,form-last-10-v0.1,Netherlands L10 GF/GA=3.06/0.57 | Japan L10=1.99/0.64
+2026-04-28,WC26-NED-JPN-2026-06-14,match_1x2,draw,0.2275,low,form-last-10-v0.1,Netherlands L10 GF/GA=3.06/0.57 | Japan L10=1.99/0.64
+2026-04-28,WC26-NED-JPN-2026-06-14,match_1x2,away,0.2651,low,form-last-10-v0.1,Netherlands L10 GF/GA=3.06/0.57 | Japan L10=1.99/0.64
+2026-04-28,WC26-SWE-TUN-2026-06-14,match_1x2,home,0.3044,low,form-last-10-v0.1,Sweden L10 GF/GA=1.49/1.83 | Tunisia L10=1.49/1.15
+2026-04-28,WC26-SWE-TUN-2026-06-14,match_1x2,draw,0.2403,low,form-last-10-v0.1,Sweden L10 GF/GA=1.49/1.83 | Tunisia L10=1.49/1.15
+2026-04-28,WC26-SWE-TUN-2026-06-14,match_1x2,away,0.4553,low,form-last-10-v0.1,Sweden L10 GF/GA=1.49/1.83 | Tunisia L10=1.49/1.15
+2026-04-28,WC26-BEL-EGY-2026-06-15,match_1x2,home,0.6135,low,form-last-10-v0.1,Belgium L10 GF/GA=3.58/0.92 | Egypt L10=1.28/0.72
+2026-04-28,WC26-BEL-EGY-2026-06-15,match_1x2,draw,0.2013,low,form-last-10-v0.1,Belgium L10 GF/GA=3.58/0.92 | Egypt L10=1.28/0.72
+2026-04-28,WC26-BEL-EGY-2026-06-15,match_1x2,away,0.1852,low,form-last-10-v0.1,Belgium L10 GF/GA=3.58/0.92 | Egypt L10=1.28/0.72
+2026-04-28,WC26-IRI-NZL-2026-06-15,match_1x2,home,0.5501,low,form-last-10-v0.1,Iran L10 GF/GA=1.63/0.67 | New Zealand L10=1.00/1.54
+2026-04-28,WC26-IRI-NZL-2026-06-15,match_1x2,draw,0.2519,low,form-last-10-v0.1,Iran L10 GF/GA=1.63/0.67 | New Zealand L10=1.00/1.54
+2026-04-28,WC26-IRI-NZL-2026-06-15,match_1x2,away,0.1979,low,form-last-10-v0.1,Iran L10 GF/GA=1.63/0.67 | New Zealand L10=1.00/1.54
+2026-04-28,WC26-ESP-CPV-2026-06-15,match_1x2,home,0.5697,low,form-last-10-v0.1,Spain L10 GF/GA=3.15/0.71 | Cape Verde L10=1.78/1.05
+2026-04-28,WC26-ESP-CPV-2026-06-15,match_1x2,draw,0.2089,low,form-last-10-v0.1,Spain L10 GF/GA=3.15/0.71 | Cape Verde L10=1.78/1.05
+2026-04-28,WC26-ESP-CPV-2026-06-15,match_1x2,away,0.2214,low,form-last-10-v0.1,Spain L10 GF/GA=3.15/0.71 | Cape Verde L10=1.78/1.05
+2026-04-28,WC26-KSA-URU-2026-06-15,match_1x2,home,0.2654,low,form-last-10-v0.1,Saudi Arabia L10 GF/GA=0.87/1.33 | Uruguay L10=1.02/0.83
+2026-04-28,WC26-KSA-URU-2026-06-15,match_1x2,draw,0.3009,low,form-last-10-v0.1,Saudi Arabia L10 GF/GA=0.87/1.33 | Uruguay L10=1.02/0.83
+2026-04-28,WC26-KSA-URU-2026-06-15,match_1x2,away,0.4337,low,form-last-10-v0.1,Saudi Arabia L10 GF/GA=0.87/1.33 | Uruguay L10=1.02/0.83
+2026-04-28,WC26-FRA-SEN-2026-06-16,match_1x2,home,0.4391,low,form-last-10-v0.1,France L10 GF/GA=2.73/0.98 | Senegal L10=1.94/0.72
+2026-04-28,WC26-FRA-SEN-2026-06-16,match_1x2,draw,0.2328,low,form-last-10-v0.1,France L10 GF/GA=2.73/0.98 | Senegal L10=1.94/0.72
+2026-04-28,WC26-FRA-SEN-2026-06-16,match_1x2,away,0.3281,low,form-last-10-v0.1,France L10 GF/GA=2.73/0.98 | Senegal L10=1.94/0.72
+2026-04-28,WC26-IRQ-NOR-2026-06-16,match_1x2,home,0.1429,low,form-last-10-v0.1,Iraq L10 GF/GA=1.17/0.75 | Norway L10=3.62/0.63
+2026-04-28,WC26-IRQ-NOR-2026-06-16,match_1x2,draw,0.1914,low,form-last-10-v0.1,Iraq L10 GF/GA=1.17/0.75 | Norway L10=3.62/0.63
+2026-04-28,WC26-IRQ-NOR-2026-06-16,match_1x2,away,0.6657,low,form-last-10-v0.1,Iraq L10 GF/GA=1.17/0.75 | Norway L10=3.62/0.63
+2026-04-28,WC26-ARG-ALG-2026-06-16,match_1x2,home,0.431,low,form-last-10-v0.1,Argentina L10 GF/GA=2.34/0.44 | Algeria L10=1.94/0.56
+2026-04-28,WC26-ARG-ALG-2026-06-16,match_1x2,draw,0.2589,low,form-last-10-v0.1,Argentina L10 GF/GA=2.34/0.44 | Algeria L10=1.94/0.56
+2026-04-28,WC26-ARG-ALG-2026-06-16,match_1x2,away,0.3101,low,form-last-10-v0.1,Argentina L10 GF/GA=2.34/0.44 | Algeria L10=1.94/0.56
+2026-04-28,WC26-AUT-JOR-2026-06-16,match_1x2,home,0.5662,low,form-last-10-v0.1,Austria L10 GF/GA=2.73/0.51 | Jordan L10=1.97/1.42
+2026-04-28,WC26-AUT-JOR-2026-06-16,match_1x2,draw,0.2104,low,form-last-10-v0.1,Austria L10 GF/GA=2.73/0.51 | Jordan L10=1.97/1.42
+2026-04-28,WC26-AUT-JOR-2026-06-16,match_1x2,away,0.2235,low,form-last-10-v0.1,Austria L10 GF/GA=2.73/0.51 | Jordan L10=1.97/1.42
+2026-04-28,WC26-POR-COD-2026-06-17,match_1x2,home,0.4818,low,form-last-10-v0.1,Portugal L10 GF/GA=2.84/1.07 | DR Congo L10=1.18/0.35
+2026-04-28,WC26-POR-COD-2026-06-17,match_1x2,draw,0.249,low,form-last-10-v0.1,Portugal L10 GF/GA=2.84/1.07 | DR Congo L10=1.18/0.35
+2026-04-28,WC26-POR-COD-2026-06-17,match_1x2,away,0.2692,low,form-last-10-v0.1,Portugal L10 GF/GA=2.84/1.07 | DR Congo L10=1.18/0.35
+2026-04-28,WC26-UZB-COL-2026-06-17,match_1x2,home,0.3396,low,form-last-10-v0.1,Uzbekistan L10 GF/GA=1.50/0.65 | Colombia L10=2.23/1.09
+2026-04-28,WC26-UZB-COL-2026-06-17,match_1x2,draw,0.2553,low,form-last-10-v0.1,Uzbekistan L10 GF/GA=1.50/0.65 | Colombia L10=2.23/1.09
+2026-04-28,WC26-UZB-COL-2026-06-17,match_1x2,away,0.4051,low,form-last-10-v0.1,Uzbekistan L10 GF/GA=1.50/0.65 | Colombia L10=2.23/1.09
+2026-04-28,WC26-ENG-CRO-2026-06-17,match_1x2,home,0.3864,low,form-last-10-v0.1,England L10 GF/GA=2.42/0.31 | Croatia L10=2.85/0.78
+2026-04-28,WC26-ENG-CRO-2026-06-17,match_1x2,draw,0.2354,low,form-last-10-v0.1,England L10 GF/GA=2.42/0.31 | Croatia L10=2.85/0.78
+2026-04-28,WC26-ENG-CRO-2026-06-17,match_1x2,away,0.3782,low,form-last-10-v0.1,England L10 GF/GA=2.42/0.31 | Croatia L10=2.85/0.78
+2026-04-28,WC26-GHA-PAN-2026-06-17,match_1x2,home,0.3383,low,form-last-10-v0.1,Ghana L10 GF/GA=1.56/1.12 | Panama L10=1.45/0.79
+2026-04-28,WC26-GHA-PAN-2026-06-17,match_1x2,draw,0.2723,low,form-last-10-v0.1,Ghana L10 GF/GA=1.56/1.12 | Panama L10=1.45/0.79
+2026-04-28,WC26-GHA-PAN-2026-06-17,match_1x2,away,0.3893,low,form-last-10-v0.1,Ghana L10 GF/GA=1.56/1.12 | Panama L10=1.45/0.79
+2026-04-28,WC26-CZE-RSA-2026-06-18,match_1x2,home,0.4281,low,form-last-10-v0.1,Czech Republic L10 GF/GA=2.00/1.27 | South Africa L10=1.48/1.20
+2026-04-28,WC26-CZE-RSA-2026-06-18,match_1x2,draw,0.2428,low,form-last-10-v0.1,Czech Republic L10 GF/GA=2.00/1.27 | South Africa L10=1.48/1.20
+2026-04-28,WC26-CZE-RSA-2026-06-18,match_1x2,away,0.3291,low,form-last-10-v0.1,Czech Republic L10 GF/GA=2.00/1.27 | South Africa L10=1.48/1.20
+2026-04-28,WC26-MEX-KOR-2026-06-18,match_1x2,home,0.4237,low,form-last-10-v0.1,Mexico L10 GF/GA=1.13/0.85 | South Korea L10=1.55/1.13
+2026-04-28,WC26-MEX-KOR-2026-06-18,match_1x2,draw,0.2779,low,form-last-10-v0.1,Mexico L10 GF/GA=1.13/0.85 | South Korea L10=1.55/1.13
+2026-04-28,WC26-MEX-KOR-2026-06-18,match_1x2,away,0.2985,low,form-last-10-v0.1,Mexico L10 GF/GA=1.13/0.85 | South Korea L10=1.55/1.13
+2026-04-28,WC26-SUI-BIH-2026-06-18,match_1x2,home,0.4581,low,form-last-10-v0.1,Switzerland L10 GF/GA=2.28/0.68 | Bosnia and Herzegovina L10=1.97/1.08
+2026-04-28,WC26-SUI-BIH-2026-06-18,match_1x2,draw,0.2386,low,form-last-10-v0.1,Switzerland L10 GF/GA=2.28/0.68 | Bosnia and Herzegovina L10=1.97/1.08
+2026-04-28,WC26-SUI-BIH-2026-06-18,match_1x2,away,0.3033,low,form-last-10-v0.1,Switzerland L10 GF/GA=2.28/0.68 | Bosnia and Herzegovina L10=1.97/1.08
+2026-04-28,WC26-CAN-QAT-2026-06-18,match_1x2,home,0.629,low,form-last-10-v0.1,Canada L10 GF/GA=1.04/0.42 | Qatar L10=0.81/1.70
+2026-04-28,WC26-CAN-QAT-2026-06-18,match_1x2,draw,0.2471,low,form-last-10-v0.1,Canada L10 GF/GA=1.04/0.42 | Qatar L10=0.81/1.70
+2026-04-28,WC26-CAN-QAT-2026-06-18,match_1x2,away,0.1238,low,form-last-10-v0.1,Canada L10 GF/GA=1.04/0.42 | Qatar L10=0.81/1.70
+2026-04-28,WC26-SCO-MAR-2026-06-19,match_1x2,home,0.2859,low,form-last-10-v0.1,Scotland L10 GF/GA=1.94/1.25 | Morocco L10=1.74/0.31
+2026-04-28,WC26-SCO-MAR-2026-06-19,match_1x2,draw,0.2577,low,form-last-10-v0.1,Scotland L10 GF/GA=1.94/1.25 | Morocco L10=1.74/0.31
+2026-04-28,WC26-SCO-MAR-2026-06-19,match_1x2,away,0.4565,low,form-last-10-v0.1,Scotland L10 GF/GA=1.94/1.25 | Morocco L10=1.74/0.31
+2026-04-28,WC26-BRA-HAI-2026-06-19,match_1x2,home,0.4389,low,form-last-10-v0.1,Brazil L10 GF/GA=1.67/0.77 | Haiti L10=1.30/1.03
+2026-04-28,WC26-BRA-HAI-2026-06-19,match_1x2,draw,0.2735,low,form-last-10-v0.1,Brazil L10 GF/GA=1.67/0.77 | Haiti L10=1.30/1.03
+2026-04-28,WC26-BRA-HAI-2026-06-19,match_1x2,away,0.2876,low,form-last-10-v0.1,Brazil L10 GF/GA=1.67/0.77 | Haiti L10=1.30/1.03
+2026-04-28,WC26-USA-AUS-2026-06-19,match_1x2,home,0.3956,low,form-last-10-v0.1,United States L10 GF/GA=1.75/1.69 | Australia L10=1.60/0.89
+2026-04-28,WC26-USA-AUS-2026-06-19,match_1x2,draw,0.2452,low,form-last-10-v0.1,United States L10 GF/GA=1.75/1.69 | Australia L10=1.60/0.89
+2026-04-28,WC26-USA-AUS-2026-06-19,match_1x2,away,0.3592,low,form-last-10-v0.1,United States L10 GF/GA=1.75/1.69 | Australia L10=1.60/0.89
+2026-04-28,WC26-TUR-PAR-2026-06-19,match_1x2,home,0.4651,low,form-last-10-v0.1,Turkey L10 GF/GA=2.18/1.30 | Paraguay L10=0.96/0.89
+2026-04-28,WC26-TUR-PAR-2026-06-19,match_1x2,draw,0.2542,low,form-last-10-v0.1,Turkey L10 GF/GA=2.18/1.30 | Paraguay L10=0.96/0.89
+2026-04-28,WC26-TUR-PAR-2026-06-19,match_1x2,away,0.2807,low,form-last-10-v0.1,Turkey L10 GF/GA=2.18/1.30 | Paraguay L10=0.96/0.89
+2026-04-28,WC26-GER-CIV-2026-06-20,match_1x2,home,0.4294,low,form-last-10-v0.1,Germany L10 GF/GA=2.49/0.89 | Ivory Coast L10=2.09/0.92
+2026-04-28,WC26-GER-CIV-2026-06-20,match_1x2,draw,0.2331,low,form-last-10-v0.1,Germany L10 GF/GA=2.49/0.89 | Ivory Coast L10=2.09/0.92
+2026-04-28,WC26-GER-CIV-2026-06-20,match_1x2,away,0.3375,low,form-last-10-v0.1,Germany L10 GF/GA=2.49/0.89 | Ivory Coast L10=2.09/0.92
+2026-04-28,WC26-ECU-CUW-2026-06-20,match_1x2,home,0.2957,low,form-last-10-v0.1,Ecuador L10 GF/GA=0.66/0.35 | Curaçao L10=1.80/1.12
+2026-04-28,WC26-ECU-CUW-2026-06-20,match_1x2,draw,0.3101,low,form-last-10-v0.1,Ecuador L10 GF/GA=0.66/0.35 | Curaçao L10=1.80/1.12
+2026-04-28,WC26-ECU-CUW-2026-06-20,match_1x2,away,0.3943,low,form-last-10-v0.1,Ecuador L10 GF/GA=0.66/0.35 | Curaçao L10=1.80/1.12
+2026-04-28,WC26-NED-SWE-2026-06-20,match_1x2,home,0.6831,low,form-last-10-v0.1,Netherlands L10 GF/GA=3.06/0.57 | Sweden L10=1.49/1.83
+2026-04-28,WC26-NED-SWE-2026-06-20,match_1x2,draw,0.1749,low,form-last-10-v0.1,Netherlands L10 GF/GA=3.06/0.57 | Sweden L10=1.49/1.83
+2026-04-28,WC26-NED-SWE-2026-06-20,match_1x2,away,0.142,low,form-last-10-v0.1,Netherlands L10 GF/GA=3.06/0.57 | Sweden L10=1.49/1.83
+2026-04-28,WC26-TUN-JPN-2026-06-20,match_1x2,home,0.2582,low,form-last-10-v0.1,Tunisia L10 GF/GA=1.49/1.15 | Japan L10=1.99/0.64
+2026-04-28,WC26-TUN-JPN-2026-06-20,match_1x2,draw,0.2526,low,form-last-10-v0.1,Tunisia L10 GF/GA=1.49/1.15 | Japan L10=1.99/0.64
+2026-04-28,WC26-TUN-JPN-2026-06-20,match_1x2,away,0.4892,low,form-last-10-v0.1,Tunisia L10 GF/GA=1.49/1.15 | Japan L10=1.99/0.64
+2026-04-28,WC26-BEL-IRI-2026-06-21,match_1x2,home,0.5689,low,form-last-10-v0.1,Belgium L10 GF/GA=3.58/0.92 | Iran L10=1.63/0.67
+2026-04-28,WC26-BEL-IRI-2026-06-21,match_1x2,draw,0.207,low,form-last-10-v0.1,Belgium L10 GF/GA=3.58/0.92 | Iran L10=1.63/0.67
+2026-04-28,WC26-BEL-IRI-2026-06-21,match_1x2,away,0.2241,low,form-last-10-v0.1,Belgium L10 GF/GA=3.58/0.92 | Iran L10=1.63/0.67
+2026-04-28,WC26-NZL-EGY-2026-06-21,match_1x2,home,0.2297,low,form-last-10-v0.1,New Zealand L10 GF/GA=1.00/1.54 | Egypt L10=1.28/0.72
+2026-04-28,WC26-NZL-EGY-2026-06-21,match_1x2,draw,0.2724,low,form-last-10-v0.1,New Zealand L10 GF/GA=1.00/1.54 | Egypt L10=1.28/0.72
+2026-04-28,WC26-NZL-EGY-2026-06-21,match_1x2,away,0.4979,low,form-last-10-v0.1,New Zealand L10 GF/GA=1.00/1.54 | Egypt L10=1.28/0.72
+2026-04-28,WC26-ESP-KSA-2026-06-21,match_1x2,home,0.7022,low,form-last-10-v0.1,Spain L10 GF/GA=3.15/0.71 | Saudi Arabia L10=0.87/1.33
+2026-04-28,WC26-ESP-KSA-2026-06-21,match_1x2,draw,0.1806,low,form-last-10-v0.1,Spain L10 GF/GA=3.15/0.71 | Saudi Arabia L10=0.87/1.33
+2026-04-28,WC26-ESP-KSA-2026-06-21,match_1x2,away,0.1173,low,form-last-10-v0.1,Spain L10 GF/GA=3.15/0.71 | Saudi Arabia L10=0.87/1.33
+2026-04-28,WC26-URU-CPV-2026-06-21,match_1x2,home,0.2953,low,form-last-10-v0.1,Uruguay L10 GF/GA=1.02/0.83 | Cape Verde L10=1.78/1.05
+2026-04-28,WC26-URU-CPV-2026-06-21,match_1x2,draw,0.278,low,form-last-10-v0.1,Uruguay L10 GF/GA=1.02/0.83 | Cape Verde L10=1.78/1.05
+2026-04-28,WC26-URU-CPV-2026-06-21,match_1x2,away,0.4268,low,form-last-10-v0.1,Uruguay L10 GF/GA=1.02/0.83 | Cape Verde L10=1.78/1.05
+2026-04-28,WC26-FRA-IRQ-2026-06-22,match_1x2,home,0.5288,low,form-last-10-v0.1,France L10 GF/GA=2.73/0.98 | Iraq L10=1.17/0.75
+2026-04-28,WC26-FRA-IRQ-2026-06-22,match_1x2,draw,0.2369,low,form-last-10-v0.1,France L10 GF/GA=2.73/0.98 | Iraq L10=1.17/0.75
+2026-04-28,WC26-FRA-IRQ-2026-06-22,match_1x2,away,0.2342,low,form-last-10-v0.1,France L10 GF/GA=2.73/0.98 | Iraq L10=1.17/0.75
+2026-04-28,WC26-NOR-SEN-2026-06-22,match_1x2,home,0.5739,low,form-last-10-v0.1,Norway L10 GF/GA=3.62/0.63 | Senegal L10=1.94/0.72
+2026-04-28,WC26-NOR-SEN-2026-06-22,match_1x2,draw,0.2043,low,form-last-10-v0.1,Norway L10 GF/GA=3.62/0.63 | Senegal L10=1.94/0.72
+2026-04-28,WC26-NOR-SEN-2026-06-22,match_1x2,away,0.2218,low,form-last-10-v0.1,Norway L10 GF/GA=3.62/0.63 | Senegal L10=1.94/0.72
+2026-04-28,WC26-ARG-AUT-2026-06-22,match_1x2,home,0.3437,low,form-last-10-v0.1,Argentina L10 GF/GA=2.34/0.44 | Austria L10=2.73/0.51
+2026-04-28,WC26-ARG-AUT-2026-06-22,match_1x2,draw,0.2418,low,form-last-10-v0.1,Argentina L10 GF/GA=2.34/0.44 | Austria L10=2.73/0.51
+2026-04-28,WC26-ARG-AUT-2026-06-22,match_1x2,away,0.4145,low,form-last-10-v0.1,Argentina L10 GF/GA=2.34/0.44 | Austria L10=2.73/0.51
+2026-04-28,WC26-JOR-ALG-2026-06-22,match_1x2,home,0.2887,low,form-last-10-v0.1,Jordan L10 GF/GA=1.97/1.42 | Algeria L10=1.94/0.56
+2026-04-28,WC26-JOR-ALG-2026-06-22,match_1x2,draw,0.2398,low,form-last-10-v0.1,Jordan L10 GF/GA=1.97/1.42 | Algeria L10=1.94/0.56
+2026-04-28,WC26-JOR-ALG-2026-06-22,match_1x2,away,0.4716,low,form-last-10-v0.1,Jordan L10 GF/GA=1.97/1.42 | Algeria L10=1.94/0.56
+2026-04-28,WC26-POR-UZB-2026-06-23,match_1x2,home,0.4823,low,form-last-10-v0.1,Portugal L10 GF/GA=2.84/1.07 | Uzbekistan L10=1.50/0.65
+2026-04-28,WC26-POR-UZB-2026-06-23,match_1x2,draw,0.2348,low,form-last-10-v0.1,Portugal L10 GF/GA=2.84/1.07 | Uzbekistan L10=1.50/0.65
+2026-04-28,WC26-POR-UZB-2026-06-23,match_1x2,away,0.2829,low,form-last-10-v0.1,Portugal L10 GF/GA=2.84/1.07 | Uzbekistan L10=1.50/0.65
+2026-04-28,WC26-COL-COD-2026-06-23,match_1x2,home,0.3994,low,form-last-10-v0.1,Colombia L10 GF/GA=2.23/1.09 | DR Congo L10=1.18/0.35
+2026-04-28,WC26-COL-COD-2026-06-23,match_1x2,draw,0.2738,low,form-last-10-v0.1,Colombia L10 GF/GA=2.23/1.09 | DR Congo L10=1.18/0.35
+2026-04-28,WC26-COL-COD-2026-06-23,match_1x2,away,0.3268,low,form-last-10-v0.1,Colombia L10 GF/GA=2.23/1.09 | DR Congo L10=1.18/0.35
+2026-04-28,WC26-ENG-GHA-2026-06-23,match_1x2,home,0.57,low,form-last-10-v0.1,England L10 GF/GA=2.42/0.31 | Ghana L10=1.56/1.12
+2026-04-28,WC26-ENG-GHA-2026-06-23,match_1x2,draw,0.233,low,form-last-10-v0.1,England L10 GF/GA=2.42/0.31 | Ghana L10=1.56/1.12
+2026-04-28,WC26-ENG-GHA-2026-06-23,match_1x2,away,0.197,low,form-last-10-v0.1,England L10 GF/GA=2.42/0.31 | Ghana L10=1.56/1.12
+2026-04-28,WC26-PAN-CRO-2026-06-23,match_1x2,home,0.231,low,form-last-10-v0.1,Panama L10 GF/GA=1.45/0.79 | Croatia L10=2.85/0.78
+2026-04-28,WC26-PAN-CRO-2026-06-23,match_1x2,draw,0.2298,low,form-last-10-v0.1,Panama L10 GF/GA=1.45/0.79 | Croatia L10=2.85/0.78
+2026-04-28,WC26-PAN-CRO-2026-06-23,match_1x2,away,0.5392,low,form-last-10-v0.1,Panama L10 GF/GA=1.45/0.79 | Croatia L10=2.85/0.78
+2026-04-28,WC26-MEX-CZE-2026-06-24,match_1x2,home,0.4022,low,form-last-10-v0.1,Mexico L10 GF/GA=1.13/0.85 | Czech Republic L10=2.00/1.27
+2026-04-28,WC26-MEX-CZE-2026-06-24,match_1x2,draw,0.2622,low,form-last-10-v0.1,Mexico L10 GF/GA=1.13/0.85 | Czech Republic L10=2.00/1.27
+2026-04-28,WC26-MEX-CZE-2026-06-24,match_1x2,away,0.3356,low,form-last-10-v0.1,Mexico L10 GF/GA=1.13/0.85 | Czech Republic L10=2.00/1.27
+2026-04-28,WC26-RSA-KOR-2026-06-24,match_1x2,home,0.3537,low,form-last-10-v0.1,South Africa L10 GF/GA=1.48/1.20 | South Korea L10=1.55/1.13
+2026-04-28,WC26-RSA-KOR-2026-06-24,match_1x2,draw,0.2594,low,form-last-10-v0.1,South Africa L10 GF/GA=1.48/1.20 | South Korea L10=1.55/1.13
+2026-04-28,WC26-RSA-KOR-2026-06-24,match_1x2,away,0.3869,low,form-last-10-v0.1,South Africa L10 GF/GA=1.48/1.20 | South Korea L10=1.55/1.13
+2026-04-28,WC26-CAN-SUI-2026-06-24,match_1x2,home,0.307,low,form-last-10-v0.1,Canada L10 GF/GA=1.04/0.42 | Switzerland L10=2.28/0.68
+2026-04-28,WC26-CAN-SUI-2026-06-24,match_1x2,draw,0.2922,low,form-last-10-v0.1,Canada L10 GF/GA=1.04/0.42 | Switzerland L10=2.28/0.68
+2026-04-28,WC26-CAN-SUI-2026-06-24,match_1x2,away,0.4008,low,form-last-10-v0.1,Canada L10 GF/GA=1.04/0.42 | Switzerland L10=2.28/0.68
+2026-04-28,WC26-BIH-QAT-2026-06-24,match_1x2,home,0.5825,low,form-last-10-v0.1,Bosnia and Herzegovina L10 GF/GA=1.97/1.08 | Qatar L10=0.81/1.70
+2026-04-28,WC26-BIH-QAT-2026-06-24,match_1x2,draw,0.2265,low,form-last-10-v0.1,Bosnia and Herzegovina L10 GF/GA=1.97/1.08 | Qatar L10=0.81/1.70
+2026-04-28,WC26-BIH-QAT-2026-06-24,match_1x2,away,0.1911,low,form-last-10-v0.1,Bosnia and Herzegovina L10 GF/GA=1.97/1.08 | Qatar L10=0.81/1.70
+2026-04-28,WC26-SCO-BRA-2026-06-24,match_1x2,home,0.3514,low,form-last-10-v0.1,Scotland L10 GF/GA=1.94/1.25 | Brazil L10=1.67/0.77
+2026-04-28,WC26-SCO-BRA-2026-06-24,match_1x2,draw,0.2518,low,form-last-10-v0.1,Scotland L10 GF/GA=1.94/1.25 | Brazil L10=1.67/0.77
+2026-04-28,WC26-SCO-BRA-2026-06-24,match_1x2,away,0.3968,low,form-last-10-v0.1,Scotland L10 GF/GA=1.94/1.25 | Brazil L10=1.67/0.77
+2026-04-28,WC26-MAR-HAI-2026-06-24,match_1x2,home,0.5057,low,form-last-10-v0.1,Morocco L10 GF/GA=1.74/0.31 | Haiti L10=1.30/1.03
+2026-04-28,WC26-MAR-HAI-2026-06-24,match_1x2,draw,0.2763,low,form-last-10-v0.1,Morocco L10 GF/GA=1.74/0.31 | Haiti L10=1.30/1.03
+2026-04-28,WC26-MAR-HAI-2026-06-24,match_1x2,away,0.218,low,form-last-10-v0.1,Morocco L10 GF/GA=1.74/0.31 | Haiti L10=1.30/1.03
+2026-04-28,WC26-USA-TUR-2026-06-25,match_1x2,home,0.4021,low,form-last-10-v0.1,United States L10 GF/GA=1.75/1.69 | Turkey L10=2.18/1.30
+2026-04-28,WC26-USA-TUR-2026-06-25,match_1x2,draw,0.2251,low,form-last-10-v0.1,United States L10 GF/GA=1.75/1.69 | Turkey L10=2.18/1.30
+2026-04-28,WC26-USA-TUR-2026-06-25,match_1x2,away,0.3728,low,form-last-10-v0.1,United States L10 GF/GA=1.75/1.69 | Turkey L10=2.18/1.30
+2026-04-28,WC26-PAR-AUS-2026-06-25,match_1x2,home,0.2748,low,form-last-10-v0.1,Paraguay L10 GF/GA=0.96/0.89 | Australia L10=1.60/0.89
+2026-04-28,WC26-PAR-AUS-2026-06-25,match_1x2,draw,0.2888,low,form-last-10-v0.1,Paraguay L10 GF/GA=0.96/0.89 | Australia L10=1.60/0.89
+2026-04-28,WC26-PAR-AUS-2026-06-25,match_1x2,away,0.4364,low,form-last-10-v0.1,Paraguay L10 GF/GA=0.96/0.89 | Australia L10=1.60/0.89
+2026-04-28,WC26-CUW-CIV-2026-06-25,match_1x2,home,0.3255,low,form-last-10-v0.1,Curaçao L10 GF/GA=1.80/1.12 | Ivory Coast L10=2.09/0.92
+2026-04-28,WC26-CUW-CIV-2026-06-25,match_1x2,draw,0.2426,low,form-last-10-v0.1,Curaçao L10 GF/GA=1.80/1.12 | Ivory Coast L10=2.09/0.92
+2026-04-28,WC26-CUW-CIV-2026-06-25,match_1x2,away,0.4319,low,form-last-10-v0.1,Curaçao L10 GF/GA=1.80/1.12 | Ivory Coast L10=2.09/0.92
+2026-04-28,WC26-ECU-GER-2026-06-25,match_1x2,home,0.2044,low,form-last-10-v0.1,Ecuador L10 GF/GA=0.66/0.35 | Germany L10=2.49/0.89
+2026-04-28,WC26-ECU-GER-2026-06-25,match_1x2,draw,0.2724,low,form-last-10-v0.1,Ecuador L10 GF/GA=0.66/0.35 | Germany L10=2.49/0.89
+2026-04-28,WC26-ECU-GER-2026-06-25,match_1x2,away,0.5232,low,form-last-10-v0.1,Ecuador L10 GF/GA=0.66/0.35 | Germany L10=2.49/0.89
+2026-04-28,WC26-JPN-SWE-2026-06-25,match_1x2,home,0.5704,low,form-last-10-v0.1,Japan L10 GF/GA=1.99/0.64 | Sweden L10=1.49/1.83
+2026-04-28,WC26-JPN-SWE-2026-06-25,match_1x2,draw,0.2215,low,form-last-10-v0.1,Japan L10 GF/GA=1.99/0.64 | Sweden L10=1.49/1.83
+2026-04-28,WC26-JPN-SWE-2026-06-25,match_1x2,away,0.2081,low,form-last-10-v0.1,Japan L10 GF/GA=1.99/0.64 | Sweden L10=1.49/1.83
+2026-04-28,WC26-TUN-NED-2026-06-25,match_1x2,home,0.1773,low,form-last-10-v0.1,Tunisia L10 GF/GA=1.49/1.15 | Netherlands L10=3.06/0.57
+2026-04-28,WC26-TUN-NED-2026-06-25,match_1x2,draw,0.2038,low,form-last-10-v0.1,Tunisia L10 GF/GA=1.49/1.15 | Netherlands L10=3.06/0.57
+2026-04-28,WC26-TUN-NED-2026-06-25,match_1x2,away,0.6189,low,form-last-10-v0.1,Tunisia L10 GF/GA=1.49/1.15 | Netherlands L10=3.06/0.57
+2026-04-28,WC26-EGY-IRI-2026-06-26,match_1x2,home,0.3027,low,form-last-10-v0.1,Egypt L10 GF/GA=1.28/0.72 | Iran L10=1.63/0.67
+2026-04-28,WC26-EGY-IRI-2026-06-26,match_1x2,draw,0.2933,low,form-last-10-v0.1,Egypt L10 GF/GA=1.28/0.72 | Iran L10=1.63/0.67
+2026-04-28,WC26-EGY-IRI-2026-06-26,match_1x2,away,0.4041,low,form-last-10-v0.1,Egypt L10 GF/GA=1.28/0.72 | Iran L10=1.63/0.67
+2026-04-28,WC26-NZL-BEL-2026-06-26,match_1x2,home,0.1201,low,form-last-10-v0.1,New Zealand L10 GF/GA=1.00/1.54 | Belgium L10=3.58/0.92
+2026-04-28,WC26-NZL-BEL-2026-06-26,match_1x2,draw,0.162,low,form-last-10-v0.1,New Zealand L10 GF/GA=1.00/1.54 | Belgium L10=3.58/0.92
+2026-04-28,WC26-NZL-BEL-2026-06-26,match_1x2,away,0.7179,low,form-last-10-v0.1,New Zealand L10 GF/GA=1.00/1.54 | Belgium L10=3.58/0.92
+2026-04-28,WC26-CPV-KSA-2026-06-26,match_1x2,home,0.5113,low,form-last-10-v0.1,Cape Verde L10 GF/GA=1.78/1.05 | Saudi Arabia L10=0.87/1.33
+2026-04-28,WC26-CPV-KSA-2026-06-26,match_1x2,draw,0.2553,low,form-last-10-v0.1,Cape Verde L10 GF/GA=1.78/1.05 | Saudi Arabia L10=0.87/1.33
+2026-04-28,WC26-CPV-KSA-2026-06-26,match_1x2,away,0.2334,low,form-last-10-v0.1,Cape Verde L10 GF/GA=1.78/1.05 | Saudi Arabia L10=0.87/1.33
+2026-04-28,WC26-URU-ESP-2026-06-26,match_1x2,home,0.1554,low,form-last-10-v0.1,Uruguay L10 GF/GA=1.02/0.83 | Spain L10=3.15/0.71
+2026-04-28,WC26-URU-ESP-2026-06-26,match_1x2,draw,0.2088,low,form-last-10-v0.1,Uruguay L10 GF/GA=1.02/0.83 | Spain L10=3.15/0.71
+2026-04-28,WC26-URU-ESP-2026-06-26,match_1x2,away,0.6358,low,form-last-10-v0.1,Uruguay L10 GF/GA=1.02/0.83 | Spain L10=3.15/0.71
+2026-04-28,WC26-NOR-FRA-2026-06-26,match_1x2,home,0.5177,low,form-last-10-v0.1,Norway L10 GF/GA=3.62/0.63 | France L10=2.73/0.98
+2026-04-28,WC26-NOR-FRA-2026-06-26,match_1x2,draw,0.1997,low,form-last-10-v0.1,Norway L10 GF/GA=3.62/0.63 | France L10=2.73/0.98
+2026-04-28,WC26-NOR-FRA-2026-06-26,match_1x2,away,0.2826,low,form-last-10-v0.1,Norway L10 GF/GA=3.62/0.63 | France L10=2.73/0.98
+2026-04-28,WC26-SEN-IRQ-2026-06-26,match_1x2,home,0.4604,low,form-last-10-v0.1,Senegal L10 GF/GA=1.94/0.72 | Iraq L10=1.17/0.75
+2026-04-28,WC26-SEN-IRQ-2026-06-26,match_1x2,draw,0.2769,low,form-last-10-v0.1,Senegal L10 GF/GA=1.94/0.72 | Iraq L10=1.17/0.75
+2026-04-28,WC26-SEN-IRQ-2026-06-26,match_1x2,away,0.2627,low,form-last-10-v0.1,Senegal L10 GF/GA=1.94/0.72 | Iraq L10=1.17/0.75
+2026-04-28,WC26-ALG-AUT-2026-06-27,match_1x2,home,0.2845,low,form-last-10-v0.1,Algeria L10 GF/GA=1.94/0.56 | Austria L10=2.73/0.51
+2026-04-28,WC26-ALG-AUT-2026-06-27,match_1x2,draw,0.2432,low,form-last-10-v0.1,Algeria L10 GF/GA=1.94/0.56 | Austria L10=2.73/0.51
+2026-04-28,WC26-ALG-AUT-2026-06-27,match_1x2,away,0.4723,low,form-last-10-v0.1,Algeria L10 GF/GA=1.94/0.56 | Austria L10=2.73/0.51
+2026-04-28,WC26-JOR-ARG-2026-06-27,match_1x2,home,0.2433,low,form-last-10-v0.1,Jordan L10 GF/GA=1.97/1.42 | Argentina L10=2.34/0.44
+2026-04-28,WC26-JOR-ARG-2026-06-27,match_1x2,draw,0.2251,low,form-last-10-v0.1,Jordan L10 GF/GA=1.97/1.42 | Argentina L10=2.34/0.44
+2026-04-28,WC26-JOR-ARG-2026-06-27,match_1x2,away,0.5316,low,form-last-10-v0.1,Jordan L10 GF/GA=1.97/1.42 | Argentina L10=2.34/0.44
+2026-04-28,WC26-COL-POR-2026-06-27,match_1x2,home,0.3283,low,form-last-10-v0.1,Colombia L10 GF/GA=2.23/1.09 | Portugal L10=2.84/1.07
+2026-04-28,WC26-COL-POR-2026-06-27,match_1x2,draw,0.2164,low,form-last-10-v0.1,Colombia L10 GF/GA=2.23/1.09 | Portugal L10=2.84/1.07
+2026-04-28,WC26-COL-POR-2026-06-27,match_1x2,away,0.4553,low,form-last-10-v0.1,Colombia L10 GF/GA=2.23/1.09 | Portugal L10=2.84/1.07
+2026-04-28,WC26-COD-UZB-2026-06-27,match_1x2,home,0.3359,low,form-last-10-v0.1,DR Congo L10 GF/GA=1.18/0.35 | Uzbekistan L10=1.50/0.65
+2026-04-28,WC26-COD-UZB-2026-06-27,match_1x2,draw,0.3242,low,form-last-10-v0.1,DR Congo L10 GF/GA=1.18/0.35 | Uzbekistan L10=1.50/0.65
+2026-04-28,WC26-COD-UZB-2026-06-27,match_1x2,away,0.3398,low,form-last-10-v0.1,DR Congo L10 GF/GA=1.18/0.35 | Uzbekistan L10=1.50/0.65
+2026-04-28,WC26-PAN-ENG-2026-06-27,match_1x2,home,0.2051,low,form-last-10-v0.1,Panama L10 GF/GA=1.45/0.79 | England L10=2.42/0.31
+2026-04-28,WC26-PAN-ENG-2026-06-27,match_1x2,draw,0.2499,low,form-last-10-v0.1,Panama L10 GF/GA=1.45/0.79 | England L10=2.42/0.31
+2026-04-28,WC26-PAN-ENG-2026-06-27,match_1x2,away,0.545,low,form-last-10-v0.1,Panama L10 GF/GA=1.45/0.79 | England L10=2.42/0.31
+2026-04-28,WC26-CRO-GHA-2026-06-27,match_1x2,home,0.5622,low,form-last-10-v0.1,Croatia L10 GF/GA=2.85/0.78 | Ghana L10=1.56/1.12
+2026-04-28,WC26-CRO-GHA-2026-06-27,match_1x2,draw,0.2167,low,form-last-10-v0.1,Croatia L10 GF/GA=2.85/0.78 | Ghana L10=1.56/1.12
+2026-04-28,WC26-CRO-GHA-2026-06-27,match_1x2,away,0.2211,low,form-last-10-v0.1,Croatia L10 GF/GA=2.85/0.78 | Ghana L10=1.56/1.12

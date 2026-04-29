@@ -1,0 +1,65 @@
+match,score,actual,pred,p_home,p_draw,p_away,correct
+Qatar vs Ecuador,0-2,A,A,0.221,0.355,0.424,✓
+Senegal vs Netherlands,0-2,A,A,0.195,0.312,0.492,✓
+England vs Iran,6-2,H,D,0.301,0.384,0.315,✗
+United States vs Wales,1-1,D,H,0.565,0.302,0.132,✗
+Argentina vs Saudi Arabia,1-2,A,H,0.609,0.279,0.111,✗
+Mexico vs Poland,0-0,D,H,0.469,0.339,0.192,✗
+Denmark vs Tunisia,0-0,D,D,0.332,0.379,0.288,✓
+France vs Australia,4-1,H,D,0.341,0.366,0.293,✗
+Germany vs Japan,1-2,A,A,0.246,0.342,0.412,✓
+Spain vs Costa Rica,7-0,H,H,0.479,0.303,0.217,✓
+Morocco vs Croatia,0-0,D,H,0.412,0.348,0.240,✗
+Belgium vs Canada,1-0,H,A,0.295,0.340,0.365,✗
+Switzerland vs Cameroon,1-0,H,H,0.379,0.363,0.257,✓
+Brazil vs Serbia,2-0,H,H,0.719,0.181,0.101,✓
+Uruguay vs South Korea,0-0,D,H,0.385,0.376,0.238,✗
+Portugal vs Ghana,3-2,H,H,0.598,0.273,0.129,✓
+Qatar vs Senegal,1-3,A,D,0.284,0.360,0.356,✗
+Netherlands vs Ecuador,1-1,D,H,0.417,0.298,0.286,✗
+Wales vs Iran,0-2,A,A,0.151,0.333,0.516,✓
+England vs United States,0-0,D,D,0.268,0.371,0.361,✓
+Poland vs Saudi Arabia,2-0,H,D,0.266,0.388,0.345,✗
+Argentina vs Mexico,2-0,H,H,0.542,0.313,0.144,✓
+Tunisia vs Australia,0-1,A,D,0.289,0.397,0.314,✗
+France vs Denmark,2-1,H,D,0.333,0.369,0.298,✗
+Japan vs Costa Rica,0-1,A,H,0.428,0.363,0.209,✗
+Spain vs Germany,1-1,D,H,0.453,0.327,0.220,✗
+Belgium vs Morocco,0-2,A,H,0.347,0.344,0.309,✗
+Croatia vs Canada,4-1,H,A,0.202,0.335,0.463,✗
+Cameroon vs Serbia,3-3,D,A,0.213,0.325,0.462,✗
+Brazil vs Switzerland,1-0,H,H,0.752,0.165,0.083,✓
+South Korea vs Ghana,2-3,A,H,0.477,0.358,0.165,✗
+Portugal vs Uruguay,2-0,H,D,0.341,0.360,0.299,✗
+Ecuador vs Senegal,1-2,A,H,0.381,0.358,0.262,✗
+Qatar vs Netherlands,0-2,A,A,0.189,0.267,0.544,✓
+Wales vs England,0-3,A,A,0.159,0.310,0.531,✓
+Iran vs United States,0-1,A,D,0.269,0.394,0.337,✗
+Poland vs Argentina,0-2,A,A,0.093,0.192,0.715,✓
+Saudi Arabia vs Mexico,1-2,A,D,0.212,0.414,0.374,✗
+Australia vs Denmark,1-0,H,D,0.303,0.377,0.320,✗
+Tunisia vs France,1-0,H,D,0.279,0.366,0.354,✗
+Japan vs Spain,2-1,H,D,0.295,0.354,0.351,✗
+Costa Rica vs Germany,2-4,A,A,0.296,0.326,0.379,✓
+Croatia vs Belgium,0-0,D,A,0.236,0.308,0.456,✗
+Canada vs Morocco,1-2,A,D,0.362,0.372,0.266,✗
+Serbia vs Switzerland,2-3,A,H,0.395,0.346,0.259,✗
+Cameroon vs Brazil,1-0,H,A,0.080,0.139,0.781,✗
+Ghana vs Uruguay,0-2,A,A,0.129,0.315,0.556,✓
+South Korea vs Portugal,2-1,H,A,0.228,0.349,0.423,✗
+Netherlands vs United States,3-1,H,A,0.320,0.334,0.346,✗
+Argentina vs Australia,2-1,H,H,0.544,0.310,0.145,✓
+France vs Poland,3-1,H,H,0.523,0.296,0.181,✓
+England vs Senegal,3-0,H,H,0.433,0.352,0.215,✓
+Japan vs Croatia,1-1,D,H,0.471,0.332,0.197,✗
+Brazil vs South Korea,4-1,H,H,0.669,0.223,0.108,✓
+Morocco vs Spain,0-0,D,A,0.248,0.336,0.417,✗
+Portugal vs Switzerland,6-1,H,H,0.526,0.303,0.171,✓
+Croatia vs Brazil,1-1,D,A,0.097,0.163,0.740,✗
+Netherlands vs Argentina,2-2,D,A,0.175,0.312,0.513,✗
+Morocco vs Portugal,1-0,H,A,0.245,0.350,0.404,✗
+England vs France,1-2,A,D,0.303,0.364,0.333,✗
+Argentina vs Croatia,3-0,H,H,0.647,0.234,0.119,✓
+France vs Morocco,2-0,H,D,0.337,0.362,0.301,✗
+Croatia vs Morocco,2-1,H,A,0.240,0.348,0.412,✗
+Argentina vs France,3-3,D,H,0.529,0.317,0.154,✗

@@ -1,0 +1,11 @@
+as_of_date,match_id,market_type,outcome,p_model,confidence,model_version,notes
+2026-XX-XX,WC26-MEX-RSA-2026-06-11,match_1x2,home,0.62,medium,v1.0,
+2026-XX-XX,WC26-MEX-RSA-2026-06-11,match_1x2,draw,0.21,medium,v1.0,
+2026-XX-XX,WC26-MEX-RSA-2026-06-11,match_1x2,away,0.17,medium,v1.0,
+2026-XX-XX,OUTRIGHT-WC2026,outright_winner,FRA,0.171,medium,v1.0,
+2026-XX-XX,OUTRIGHT-WC2026,outright_winner,ESP,0.166,medium,v1.0,
+2026-XX-XX,OUTRIGHT-WC2026,outright_winner,ARG,0.096,medium,v1.0,
+2026-XX-XX,GROUP-A-WC2026,group_winner,MEX,0.48,medium,v1.0,
+2026-XX-XX,GROUP-A-WC2026,group_winner,KOR,0.23,medium,v1.0,
+2026-XX-XX,GROUP-A-WC2026,group_winner,CZE,0.21,medium,v1.0,
+2026-XX-XX,GROUP-A-WC2026,group_winner,RSA,0.05,medium,v1.0,

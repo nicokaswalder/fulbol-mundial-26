@@ -1,0 +1,217 @@
+as_of_date,match_id,market_type,outcome,p_model,confidence,model_version,notes
+2026-04-28,WC26-MEX-RSA-2026-06-11,match_1x2,home,0.417,medium,poisson-goals-v0.1,Mexico att/def=0.95/0.62 | South Africa att/def=1.09/0.68
+2026-04-28,WC26-MEX-RSA-2026-06-11,match_1x2,draw,0.323,medium,poisson-goals-v0.1,Mexico att/def=0.95/0.62 | South Africa att/def=1.09/0.68
+2026-04-28,WC26-MEX-RSA-2026-06-11,match_1x2,away,0.2601,medium,poisson-goals-v0.1,Mexico att/def=0.95/0.62 | South Africa att/def=1.09/0.68
+2026-04-28,WC26-KOR-CZE-2026-06-11,match_1x2,home,0.5033,medium,poisson-goals-v0.1,South Korea att/def=1.43/0.76 | Czech Republic att/def=1.21/0.92
+2026-04-28,WC26-KOR-CZE-2026-06-11,match_1x2,draw,0.2323,medium,poisson-goals-v0.1,South Korea att/def=1.43/0.76 | Czech Republic att/def=1.21/0.92
+2026-04-28,WC26-KOR-CZE-2026-06-11,match_1x2,away,0.2644,medium,poisson-goals-v0.1,South Korea att/def=1.43/0.76 | Czech Republic att/def=1.21/0.92
+2026-04-28,WC26-CAN-BIH-2026-06-12,match_1x2,home,0.6618,medium,poisson-goals-v0.1,Canada att/def=1.03/0.78 | Bosnia and Herzegovina att/def=0.91/1.22
+2026-04-28,WC26-CAN-BIH-2026-06-12,match_1x2,draw,0.2011,medium,poisson-goals-v0.1,Canada att/def=1.03/0.78 | Bosnia and Herzegovina att/def=0.91/1.22
+2026-04-28,WC26-CAN-BIH-2026-06-12,match_1x2,away,0.1371,medium,poisson-goals-v0.1,Canada att/def=1.03/0.78 | Bosnia and Herzegovina att/def=0.91/1.22
+2026-04-28,WC26-USA-PAR-2026-06-12,match_1x2,home,0.6769,medium,poisson-goals-v0.1,United States att/def=1.27/0.74 | Paraguay att/def=0.62/0.86
+2026-04-28,WC26-USA-PAR-2026-06-12,match_1x2,draw,0.2191,medium,poisson-goals-v0.1,United States att/def=1.27/0.74 | Paraguay att/def=0.62/0.86
+2026-04-28,WC26-USA-PAR-2026-06-12,match_1x2,away,0.104,medium,poisson-goals-v0.1,United States att/def=1.27/0.74 | Paraguay att/def=0.62/0.86
+2026-04-28,WC26-QAT-SUI-2026-06-13,match_1x2,home,0.3191,medium,poisson-goals-v0.1,Qatar att/def=1.14/1.05 | Switzerland att/def=1.24/0.94
+2026-04-28,WC26-QAT-SUI-2026-06-13,match_1x2,draw,0.2308,medium,poisson-goals-v0.1,Qatar att/def=1.14/1.05 | Switzerland att/def=1.24/0.94
+2026-04-28,WC26-QAT-SUI-2026-06-13,match_1x2,away,0.4501,medium,poisson-goals-v0.1,Qatar att/def=1.14/1.05 | Switzerland att/def=1.24/0.94
+2026-04-28,WC26-BRA-MAR-2026-06-13,match_1x2,home,0.2182,medium,poisson-goals-v0.1,Brazil att/def=1.32/0.62 | Morocco att/def=1.39/0.39
+2026-04-28,WC26-BRA-MAR-2026-06-13,match_1x2,draw,0.3084,medium,poisson-goals-v0.1,Brazil att/def=1.32/0.62 | Morocco att/def=1.39/0.39
+2026-04-28,WC26-BRA-MAR-2026-06-13,match_1x2,away,0.4734,medium,poisson-goals-v0.1,Brazil att/def=1.32/0.62 | Morocco att/def=1.39/0.39
+2026-04-28,WC26-HAI-SCO-2026-06-13,match_1x2,home,0.6383,medium,poisson-goals-v0.1,Haiti att/def=1.81/0.86 | Scotland att/def=1.14/1.04
+2026-04-28,WC26-HAI-SCO-2026-06-13,match_1x2,draw,0.1782,medium,poisson-goals-v0.1,Haiti att/def=1.81/0.86 | Scotland att/def=1.14/1.04
+2026-04-28,WC26-HAI-SCO-2026-06-13,match_1x2,away,0.1834,medium,poisson-goals-v0.1,Haiti att/def=1.81/0.86 | Scotland att/def=1.14/1.04
+2026-04-28,WC26-AUS-TUR-2026-06-13,match_1x2,home,0.5118,medium,poisson-goals-v0.1,Australia att/def=1.32/0.58 | Turkey att/def=1.44/0.97
+2026-04-28,WC26-AUS-TUR-2026-06-13,match_1x2,draw,0.2381,medium,poisson-goals-v0.1,Australia att/def=1.32/0.58 | Turkey att/def=1.44/0.97
+2026-04-28,WC26-AUS-TUR-2026-06-13,match_1x2,away,0.2501,medium,poisson-goals-v0.1,Australia att/def=1.32/0.58 | Turkey att/def=1.44/0.97
+2026-04-28,WC26-GER-CUW-2026-06-14,match_1x2,home,0.446,medium,poisson-goals-v0.1,Germany att/def=1.56/0.87 | Curaçao att/def=1.35/0.88
+2026-04-28,WC26-GER-CUW-2026-06-14,match_1x2,draw,0.2226,medium,poisson-goals-v0.1,Germany att/def=1.56/0.87 | Curaçao att/def=1.35/0.88
+2026-04-28,WC26-GER-CUW-2026-06-14,match_1x2,away,0.3314,medium,poisson-goals-v0.1,Germany att/def=1.56/0.87 | Curaçao att/def=1.35/0.88
+2026-04-28,WC26-CIV-ECU-2026-06-14,match_1x2,home,0.4101,medium,poisson-goals-v0.1,Ivory Coast att/def=1.32/0.55 | Ecuador att/def=0.72/0.48
+2026-04-28,WC26-CIV-ECU-2026-06-14,match_1x2,draw,0.3742,medium,poisson-goals-v0.1,Ivory Coast att/def=1.32/0.55 | Ecuador att/def=0.72/0.48
+2026-04-28,WC26-CIV-ECU-2026-06-14,match_1x2,away,0.2157,medium,poisson-goals-v0.1,Ivory Coast att/def=1.32/0.55 | Ecuador att/def=0.72/0.48
+2026-04-28,WC26-NED-JPN-2026-06-14,match_1x2,home,0.2288,medium,poisson-goals-v0.1,Netherlands att/def=1.71/0.77 | Japan att/def=1.89/0.52
+2026-04-28,WC26-NED-JPN-2026-06-14,match_1x2,draw,0.2184,medium,poisson-goals-v0.1,Netherlands att/def=1.71/0.77 | Japan att/def=1.89/0.52
+2026-04-28,WC26-NED-JPN-2026-06-14,match_1x2,away,0.5528,medium,poisson-goals-v0.1,Netherlands att/def=1.71/0.77 | Japan att/def=1.89/0.52
+2026-04-28,WC26-SWE-TUN-2026-06-14,match_1x2,home,0.201,medium,poisson-goals-v0.1,Sweden att/def=1.31/1.07 | Tunisia att/def=0.99/0.44
+2026-04-28,WC26-SWE-TUN-2026-06-14,match_1x2,draw,0.2701,medium,poisson-goals-v0.1,Sweden att/def=1.31/1.07 | Tunisia att/def=0.99/0.44
+2026-04-28,WC26-SWE-TUN-2026-06-14,match_1x2,away,0.5289,medium,poisson-goals-v0.1,Sweden att/def=1.31/1.07 | Tunisia att/def=0.99/0.44
+2026-04-28,WC26-BEL-EGY-2026-06-15,match_1x2,home,0.3392,medium,poisson-goals-v0.1,Belgium att/def=1.46/0.67 | Egypt att/def=1.08/0.49
+2026-04-28,WC26-BEL-EGY-2026-06-15,match_1x2,draw,0.3146,medium,poisson-goals-v0.1,Belgium att/def=1.46/0.67 | Egypt att/def=1.08/0.49
+2026-04-28,WC26-BEL-EGY-2026-06-15,match_1x2,away,0.3462,medium,poisson-goals-v0.1,Belgium att/def=1.46/0.67 | Egypt att/def=1.08/0.49
+2026-04-28,WC26-IRI-NZL-2026-06-15,match_1x2,home,0.2671,medium,poisson-goals-v0.1,Iran att/def=1.41/0.70 | New Zealand att/def=1.78/0.62
+2026-04-28,WC26-IRI-NZL-2026-06-15,match_1x2,draw,0.2409,medium,poisson-goals-v0.1,Iran att/def=1.41/0.70 | New Zealand att/def=1.78/0.62
+2026-04-28,WC26-IRI-NZL-2026-06-15,match_1x2,away,0.4919,medium,poisson-goals-v0.1,Iran att/def=1.41/0.70 | New Zealand att/def=1.78/0.62
+2026-04-28,WC26-ESP-CPV-2026-06-15,match_1x2,home,0.6144,medium,poisson-goals-v0.1,Spain att/def=1.84/0.57 | Cape Verde att/def=0.91/0.69
+2026-04-28,WC26-ESP-CPV-2026-06-15,match_1x2,draw,0.2344,medium,poisson-goals-v0.1,Spain att/def=1.84/0.57 | Cape Verde att/def=0.91/0.69
+2026-04-28,WC26-ESP-CPV-2026-06-15,match_1x2,away,0.1512,medium,poisson-goals-v0.1,Spain att/def=1.84/0.57 | Cape Verde att/def=0.91/0.69
+2026-04-28,WC26-KSA-URU-2026-06-15,match_1x2,home,0.1837,medium,poisson-goals-v0.1,Saudi Arabia att/def=0.80/0.72 | Uruguay att/def=1.05/0.48
+2026-04-28,WC26-KSA-URU-2026-06-15,match_1x2,draw,0.3451,medium,poisson-goals-v0.1,Saudi Arabia att/def=0.80/0.72 | Uruguay att/def=1.05/0.48
+2026-04-28,WC26-KSA-URU-2026-06-15,match_1x2,away,0.4712,medium,poisson-goals-v0.1,Saudi Arabia att/def=0.80/0.72 | Uruguay att/def=1.05/0.48
+2026-04-28,WC26-FRA-SEN-2026-06-16,match_1x2,home,0.312,medium,poisson-goals-v0.1,France att/def=1.56/0.64 | Senegal att/def=1.30/0.47
+2026-04-28,WC26-FRA-SEN-2026-06-16,match_1x2,draw,0.2967,medium,poisson-goals-v0.1,France att/def=1.56/0.64 | Senegal att/def=1.30/0.47
+2026-04-28,WC26-FRA-SEN-2026-06-16,match_1x2,away,0.3914,medium,poisson-goals-v0.1,France att/def=1.56/0.64 | Senegal att/def=1.30/0.47
+2026-04-28,WC26-IRQ-NOR-2026-06-16,match_1x2,home,0.2518,medium,poisson-goals-v0.1,Iraq att/def=1.08/0.67 | Norway att/def=1.89/0.77
+2026-04-28,WC26-IRQ-NOR-2026-06-16,match_1x2,draw,0.2399,medium,poisson-goals-v0.1,Iraq att/def=1.08/0.67 | Norway att/def=1.89/0.77
+2026-04-28,WC26-IRQ-NOR-2026-06-16,match_1x2,away,0.5083,medium,poisson-goals-v0.1,Iraq att/def=1.08/0.67 | Norway att/def=1.89/0.77
+2026-04-28,WC26-ARG-ALG-2026-06-16,match_1x2,home,0.452,medium,poisson-goals-v0.1,Argentina att/def=1.53/0.40 | Algeria att/def=1.39/0.56
+2026-04-28,WC26-ARG-ALG-2026-06-16,match_1x2,draw,0.3096,medium,poisson-goals-v0.1,Argentina att/def=1.53/0.40 | Algeria att/def=1.39/0.56
+2026-04-28,WC26-ARG-ALG-2026-06-16,match_1x2,away,0.2384,medium,poisson-goals-v0.1,Argentina att/def=1.53/0.40 | Algeria att/def=1.39/0.56
+2026-04-28,WC26-AUT-JOR-2026-06-16,match_1x2,home,0.4291,medium,poisson-goals-v0.1,Austria att/def=1.48/0.74 | Jordan att/def=1.34/0.79
+2026-04-28,WC26-AUT-JOR-2026-06-16,match_1x2,draw,0.2452,medium,poisson-goals-v0.1,Austria att/def=1.48/0.74 | Jordan att/def=1.34/0.79
+2026-04-28,WC26-AUT-JOR-2026-06-16,match_1x2,away,0.3257,medium,poisson-goals-v0.1,Austria att/def=1.48/0.74 | Jordan att/def=1.34/0.79
+2026-04-28,WC26-POR-COD-2026-06-17,match_1x2,home,0.5068,medium,poisson-goals-v0.1,Portugal att/def=1.84/0.57 | DR Congo att/def=0.88/0.51
+2026-04-28,WC26-POR-COD-2026-06-17,match_1x2,draw,0.2943,medium,poisson-goals-v0.1,Portugal att/def=1.84/0.57 | DR Congo att/def=0.88/0.51
+2026-04-28,WC26-POR-COD-2026-06-17,match_1x2,away,0.1989,medium,poisson-goals-v0.1,Portugal att/def=1.84/0.57 | DR Congo att/def=0.88/0.51
+2026-04-28,WC26-UZB-COL-2026-06-17,match_1x2,home,0.4032,medium,poisson-goals-v0.1,Uzbekistan att/def=1.30/0.48 | Colombia att/def=1.29/0.60
+2026-04-28,WC26-UZB-COL-2026-06-17,match_1x2,draw,0.3154,medium,poisson-goals-v0.1,Uzbekistan att/def=1.30/0.48 | Colombia att/def=1.29/0.60
+2026-04-28,WC26-UZB-COL-2026-06-17,match_1x2,away,0.2815,medium,poisson-goals-v0.1,Uzbekistan att/def=1.30/0.48 | Colombia att/def=1.29/0.60
+2026-04-28,WC26-ENG-CRO-2026-06-17,match_1x2,home,0.503,medium,poisson-goals-v0.1,England att/def=1.52/0.52 | Croatia att/def=1.25/0.70
+2026-04-28,WC26-ENG-CRO-2026-06-17,match_1x2,draw,0.2683,medium,poisson-goals-v0.1,England att/def=1.52/0.52 | Croatia att/def=1.25/0.70
+2026-04-28,WC26-ENG-CRO-2026-06-17,match_1x2,away,0.2287,medium,poisson-goals-v0.1,England att/def=1.52/0.52 | Croatia att/def=1.25/0.70
+2026-04-28,WC26-GHA-PAN-2026-06-17,match_1x2,home,0.3123,medium,poisson-goals-v0.1,Ghana att/def=1.00/0.95 | Panama att/def=1.13/0.89
+2026-04-28,WC26-GHA-PAN-2026-06-17,match_1x2,draw,0.2586,medium,poisson-goals-v0.1,Ghana att/def=1.00/0.95 | Panama att/def=1.13/0.89
+2026-04-28,WC26-GHA-PAN-2026-06-17,match_1x2,away,0.4291,medium,poisson-goals-v0.1,Ghana att/def=1.00/0.95 | Panama att/def=1.13/0.89
+2026-04-28,WC26-CZE-RSA-2026-06-18,match_1x2,home,0.3033,medium,poisson-goals-v0.1,Czech Republic att/def=1.21/0.92 | South Africa att/def=1.09/0.68
+2026-04-28,WC26-CZE-RSA-2026-06-18,match_1x2,draw,0.269,medium,poisson-goals-v0.1,Czech Republic att/def=1.21/0.92 | South Africa att/def=1.09/0.68
+2026-04-28,WC26-CZE-RSA-2026-06-18,match_1x2,away,0.4277,medium,poisson-goals-v0.1,Czech Republic att/def=1.21/0.92 | South Africa att/def=1.09/0.68
+2026-04-28,WC26-MEX-KOR-2026-06-18,match_1x2,home,0.3986,medium,poisson-goals-v0.1,Mexico att/def=0.95/0.62 | South Korea att/def=1.43/0.76
+2026-04-28,WC26-MEX-KOR-2026-06-18,match_1x2,draw,0.2926,medium,poisson-goals-v0.1,Mexico att/def=0.95/0.62 | South Korea att/def=1.43/0.76
+2026-04-28,WC26-MEX-KOR-2026-06-18,match_1x2,away,0.3088,medium,poisson-goals-v0.1,Mexico att/def=0.95/0.62 | South Korea att/def=1.43/0.76
+2026-04-28,WC26-SUI-BIH-2026-06-18,match_1x2,home,0.58,medium,poisson-goals-v0.1,Switzerland att/def=1.24/0.94 | Bosnia and Herzegovina att/def=0.91/1.22
+2026-04-28,WC26-SUI-BIH-2026-06-18,match_1x2,draw,0.2107,medium,poisson-goals-v0.1,Switzerland att/def=1.24/0.94 | Bosnia and Herzegovina att/def=0.91/1.22
+2026-04-28,WC26-SUI-BIH-2026-06-18,match_1x2,away,0.2093,medium,poisson-goals-v0.1,Switzerland att/def=1.24/0.94 | Bosnia and Herzegovina att/def=0.91/1.22
+2026-04-28,WC26-CAN-QAT-2026-06-18,match_1x2,home,0.5483,medium,poisson-goals-v0.1,Canada att/def=1.03/0.78 | Qatar att/def=1.14/1.05
+2026-04-28,WC26-CAN-QAT-2026-06-18,match_1x2,draw,0.2358,medium,poisson-goals-v0.1,Canada att/def=1.03/0.78 | Qatar att/def=1.14/1.05
+2026-04-28,WC26-CAN-QAT-2026-06-18,match_1x2,away,0.2159,medium,poisson-goals-v0.1,Canada att/def=1.03/0.78 | Qatar att/def=1.14/1.05
+2026-04-28,WC26-SCO-MAR-2026-06-19,match_1x2,home,0.1034,medium,poisson-goals-v0.1,Scotland att/def=1.14/1.04 | Morocco att/def=1.39/0.39
+2026-04-28,WC26-SCO-MAR-2026-06-19,match_1x2,draw,0.198,medium,poisson-goals-v0.1,Scotland att/def=1.14/1.04 | Morocco att/def=1.39/0.39
+2026-04-28,WC26-SCO-MAR-2026-06-19,match_1x2,away,0.6986,medium,poisson-goals-v0.1,Scotland att/def=1.14/1.04 | Morocco att/def=1.39/0.39
+2026-04-28,WC26-BRA-HAI-2026-06-19,match_1x2,home,0.3831,medium,poisson-goals-v0.1,Brazil att/def=1.32/0.62 | Haiti att/def=1.81/0.86
+2026-04-28,WC26-BRA-HAI-2026-06-19,match_1x2,draw,0.24,medium,poisson-goals-v0.1,Brazil att/def=1.32/0.62 | Haiti att/def=1.81/0.86
+2026-04-28,WC26-BRA-HAI-2026-06-19,match_1x2,away,0.3768,medium,poisson-goals-v0.1,Brazil att/def=1.32/0.62 | Haiti att/def=1.81/0.86
+2026-04-28,WC26-USA-AUS-2026-06-19,match_1x2,home,0.3806,medium,poisson-goals-v0.1,United States att/def=1.27/0.74 | Australia att/def=1.32/0.58
+2026-04-28,WC26-USA-AUS-2026-06-19,match_1x2,draw,0.283,medium,poisson-goals-v0.1,United States att/def=1.27/0.74 | Australia att/def=1.32/0.58
+2026-04-28,WC26-USA-AUS-2026-06-19,match_1x2,away,0.3364,medium,poisson-goals-v0.1,United States att/def=1.27/0.74 | Australia att/def=1.32/0.58
+2026-04-28,WC26-TUR-PAR-2026-06-19,match_1x2,home,0.5766,medium,poisson-goals-v0.1,Turkey att/def=1.44/0.97 | Paraguay att/def=0.62/0.86
+2026-04-28,WC26-TUR-PAR-2026-06-19,match_1x2,draw,0.2419,medium,poisson-goals-v0.1,Turkey att/def=1.44/0.97 | Paraguay att/def=0.62/0.86
+2026-04-28,WC26-TUR-PAR-2026-06-19,match_1x2,away,0.1815,medium,poisson-goals-v0.1,Turkey att/def=1.44/0.97 | Paraguay att/def=0.62/0.86
+2026-04-28,WC26-GER-CIV-2026-06-20,match_1x2,home,0.2832,medium,poisson-goals-v0.1,Germany att/def=1.56/0.87 | Ivory Coast att/def=1.32/0.55
+2026-04-28,WC26-GER-CIV-2026-06-20,match_1x2,draw,0.2512,medium,poisson-goals-v0.1,Germany att/def=1.56/0.87 | Ivory Coast att/def=1.32/0.55
+2026-04-28,WC26-GER-CIV-2026-06-20,match_1x2,away,0.4656,medium,poisson-goals-v0.1,Germany att/def=1.56/0.87 | Ivory Coast att/def=1.32/0.55
+2026-04-28,WC26-ECU-CUW-2026-06-20,match_1x2,home,0.3291,medium,poisson-goals-v0.1,Ecuador att/def=0.72/0.48 | Curaçao att/def=1.35/0.88
+2026-04-28,WC26-ECU-CUW-2026-06-20,match_1x2,draw,0.335,medium,poisson-goals-v0.1,Ecuador att/def=0.72/0.48 | Curaçao att/def=1.35/0.88
+2026-04-28,WC26-ECU-CUW-2026-06-20,match_1x2,away,0.3359,medium,poisson-goals-v0.1,Ecuador att/def=0.72/0.48 | Curaçao att/def=1.35/0.88
+2026-04-28,WC26-NED-SWE-2026-06-20,match_1x2,home,0.6166,medium,poisson-goals-v0.1,Netherlands att/def=1.71/0.77 | Sweden att/def=1.31/1.07
+2026-04-28,WC26-NED-SWE-2026-06-20,match_1x2,draw,0.1848,medium,poisson-goals-v0.1,Netherlands att/def=1.71/0.77 | Sweden att/def=1.31/1.07
+2026-04-28,WC26-NED-SWE-2026-06-20,match_1x2,away,0.1986,medium,poisson-goals-v0.1,Netherlands att/def=1.71/0.77 | Sweden att/def=1.31/1.07
+2026-04-28,WC26-TUN-JPN-2026-06-20,match_1x2,home,0.2276,medium,poisson-goals-v0.1,Tunisia att/def=0.99/0.44 | Japan att/def=1.89/0.52
+2026-04-28,WC26-TUN-JPN-2026-06-20,match_1x2,draw,0.3181,medium,poisson-goals-v0.1,Tunisia att/def=0.99/0.44 | Japan att/def=1.89/0.52
+2026-04-28,WC26-TUN-JPN-2026-06-20,match_1x2,away,0.4543,medium,poisson-goals-v0.1,Tunisia att/def=0.99/0.44 | Japan att/def=1.89/0.52
+2026-04-28,WC26-BEL-IRI-2026-06-21,match_1x2,home,0.3933,medium,poisson-goals-v0.1,Belgium att/def=1.46/0.67 | Iran att/def=1.41/0.70
+2026-04-28,WC26-BEL-IRI-2026-06-21,match_1x2,draw,0.2606,medium,poisson-goals-v0.1,Belgium att/def=1.46/0.67 | Iran att/def=1.41/0.70
+2026-04-28,WC26-BEL-IRI-2026-06-21,match_1x2,away,0.3461,medium,poisson-goals-v0.1,Belgium att/def=1.46/0.67 | Iran att/def=1.41/0.70
+2026-04-28,WC26-NZL-EGY-2026-06-21,match_1x2,home,0.4221,medium,poisson-goals-v0.1,New Zealand att/def=1.78/0.62 | Egypt att/def=1.08/0.49
+2026-04-28,WC26-NZL-EGY-2026-06-21,match_1x2,draw,0.2977,medium,poisson-goals-v0.1,New Zealand att/def=1.78/0.62 | Egypt att/def=1.08/0.49
+2026-04-28,WC26-NZL-EGY-2026-06-21,match_1x2,away,0.2802,medium,poisson-goals-v0.1,New Zealand att/def=1.78/0.62 | Egypt att/def=1.08/0.49
+2026-04-28,WC26-ESP-KSA-2026-06-21,match_1x2,home,0.6556,medium,poisson-goals-v0.1,Spain att/def=1.84/0.57 | Saudi Arabia att/def=0.80/0.72
+2026-04-28,WC26-ESP-KSA-2026-06-21,match_1x2,draw,0.2215,medium,poisson-goals-v0.1,Spain att/def=1.84/0.57 | Saudi Arabia att/def=0.80/0.72
+2026-04-28,WC26-ESP-KSA-2026-06-21,match_1x2,away,0.1229,medium,poisson-goals-v0.1,Spain att/def=1.84/0.57 | Saudi Arabia att/def=0.80/0.72
+2026-04-28,WC26-URU-CPV-2026-06-21,match_1x2,home,0.4355,medium,poisson-goals-v0.1,Uruguay att/def=1.05/0.48 | Cape Verde att/def=0.91/0.69
+2026-04-28,WC26-URU-CPV-2026-06-21,match_1x2,draw,0.3478,medium,poisson-goals-v0.1,Uruguay att/def=1.05/0.48 | Cape Verde att/def=0.91/0.69
+2026-04-28,WC26-URU-CPV-2026-06-21,match_1x2,away,0.2166,medium,poisson-goals-v0.1,Uruguay att/def=1.05/0.48 | Cape Verde att/def=0.91/0.69
+2026-04-28,WC26-FRA-IRQ-2026-06-22,match_1x2,home,0.4772,medium,poisson-goals-v0.1,France att/def=1.56/0.64 | Iraq att/def=1.08/0.67
+2026-04-28,WC26-FRA-IRQ-2026-06-22,match_1x2,draw,0.271,medium,poisson-goals-v0.1,France att/def=1.56/0.64 | Iraq att/def=1.08/0.67
+2026-04-28,WC26-FRA-IRQ-2026-06-22,match_1x2,away,0.2518,medium,poisson-goals-v0.1,France att/def=1.56/0.64 | Iraq att/def=1.08/0.67
+2026-04-28,WC26-NOR-SEN-2026-06-22,match_1x2,home,0.3265,medium,poisson-goals-v0.1,Norway att/def=1.89/0.77 | Senegal att/def=1.30/0.47
+2026-04-28,WC26-NOR-SEN-2026-06-22,match_1x2,draw,0.2656,medium,poisson-goals-v0.1,Norway att/def=1.89/0.77 | Senegal att/def=1.30/0.47
+2026-04-28,WC26-NOR-SEN-2026-06-22,match_1x2,away,0.4078,medium,poisson-goals-v0.1,Norway att/def=1.89/0.77 | Senegal att/def=1.30/0.47
+2026-04-28,WC26-ARG-AUT-2026-06-22,match_1x2,home,0.5465,medium,poisson-goals-v0.1,Argentina att/def=1.53/0.40 | Austria att/def=1.48/0.74
+2026-04-28,WC26-ARG-AUT-2026-06-22,match_1x2,draw,0.2584,medium,poisson-goals-v0.1,Argentina att/def=1.53/0.40 | Austria att/def=1.48/0.74
+2026-04-28,WC26-ARG-AUT-2026-06-22,match_1x2,away,0.1952,medium,poisson-goals-v0.1,Argentina att/def=1.53/0.40 | Austria att/def=1.48/0.74
+2026-04-28,WC26-JOR-ALG-2026-06-22,match_1x2,home,0.2583,medium,poisson-goals-v0.1,Jordan att/def=1.34/0.79 | Algeria att/def=1.39/0.56
+2026-04-28,WC26-JOR-ALG-2026-06-22,match_1x2,draw,0.2622,medium,poisson-goals-v0.1,Jordan att/def=1.34/0.79 | Algeria att/def=1.39/0.56
+2026-04-28,WC26-JOR-ALG-2026-06-22,match_1x2,away,0.4794,medium,poisson-goals-v0.1,Jordan att/def=1.34/0.79 | Algeria att/def=1.39/0.56
+2026-04-28,WC26-POR-UZB-2026-06-23,match_1x2,home,0.4036,medium,poisson-goals-v0.1,Portugal att/def=1.84/0.57 | Uzbekistan att/def=1.30/0.48
+2026-04-28,WC26-POR-UZB-2026-06-23,match_1x2,draw,0.2897,medium,poisson-goals-v0.1,Portugal att/def=1.84/0.57 | Uzbekistan att/def=1.30/0.48
+2026-04-28,WC26-POR-UZB-2026-06-23,match_1x2,away,0.3067,medium,poisson-goals-v0.1,Portugal att/def=1.84/0.57 | Uzbekistan att/def=1.30/0.48
+2026-04-28,WC26-COL-COD-2026-06-23,match_1x2,home,0.3728,medium,poisson-goals-v0.1,Colombia att/def=1.29/0.60 | DR Congo att/def=0.88/0.51
+2026-04-28,WC26-COL-COD-2026-06-23,match_1x2,draw,0.3504,medium,poisson-goals-v0.1,Colombia att/def=1.29/0.60 | DR Congo att/def=0.88/0.51
+2026-04-28,WC26-COL-COD-2026-06-23,match_1x2,away,0.2768,medium,poisson-goals-v0.1,Colombia att/def=1.29/0.60 | DR Congo att/def=0.88/0.51
+2026-04-28,WC26-ENG-GHA-2026-06-23,match_1x2,home,0.6664,medium,poisson-goals-v0.1,England att/def=1.52/0.52 | Ghana att/def=1.00/0.95
+2026-04-28,WC26-ENG-GHA-2026-06-23,match_1x2,draw,0.2068,medium,poisson-goals-v0.1,England att/def=1.52/0.52 | Ghana att/def=1.00/0.95
+2026-04-28,WC26-ENG-GHA-2026-06-23,match_1x2,away,0.1268,medium,poisson-goals-v0.1,England att/def=1.52/0.52 | Ghana att/def=1.00/0.95
+2026-04-28,WC26-PAN-CRO-2026-06-23,match_1x2,home,0.2735,medium,poisson-goals-v0.1,Panama att/def=1.13/0.89 | Croatia att/def=1.25/0.70
+2026-04-28,WC26-PAN-CRO-2026-06-23,match_1x2,draw,0.259,medium,poisson-goals-v0.1,Panama att/def=1.13/0.89 | Croatia att/def=1.25/0.70
+2026-04-28,WC26-PAN-CRO-2026-06-23,match_1x2,away,0.4674,medium,poisson-goals-v0.1,Panama att/def=1.13/0.89 | Croatia att/def=1.25/0.70
+2026-04-28,WC26-MEX-CZE-2026-06-24,match_1x2,home,0.5096,medium,poisson-goals-v0.1,Mexico att/def=0.95/0.62 | Czech Republic att/def=1.21/0.92
+2026-04-28,WC26-MEX-CZE-2026-06-24,match_1x2,draw,0.2701,medium,poisson-goals-v0.1,Mexico att/def=0.95/0.62 | Czech Republic att/def=1.21/0.92
+2026-04-28,WC26-MEX-CZE-2026-06-24,match_1x2,away,0.2203,medium,poisson-goals-v0.1,Mexico att/def=0.95/0.62 | Czech Republic att/def=1.21/0.92
+2026-04-28,WC26-RSA-KOR-2026-06-24,match_1x2,home,0.3174,medium,poisson-goals-v0.1,South Africa att/def=1.09/0.68 | South Korea att/def=1.43/0.76
+2026-04-28,WC26-RSA-KOR-2026-06-24,match_1x2,draw,0.2731,medium,poisson-goals-v0.1,South Africa att/def=1.09/0.68 | South Korea att/def=1.43/0.76
+2026-04-28,WC26-RSA-KOR-2026-06-24,match_1x2,away,0.4096,medium,poisson-goals-v0.1,South Africa att/def=1.09/0.68 | South Korea att/def=1.43/0.76
+2026-04-28,WC26-CAN-SUI-2026-06-24,match_1x2,home,0.484,medium,poisson-goals-v0.1,Canada att/def=1.03/0.78 | Switzerland att/def=1.24/0.94
+2026-04-28,WC26-CAN-SUI-2026-06-24,match_1x2,draw,0.2514,medium,poisson-goals-v0.1,Canada att/def=1.03/0.78 | Switzerland att/def=1.24/0.94
+2026-04-28,WC26-CAN-SUI-2026-06-24,match_1x2,away,0.2646,medium,poisson-goals-v0.1,Canada att/def=1.03/0.78 | Switzerland att/def=1.24/0.94
+2026-04-28,WC26-BIH-QAT-2026-06-24,match_1x2,home,0.2614,medium,poisson-goals-v0.1,Bosnia and Herzegovina att/def=0.91/1.22 | Qatar att/def=1.14/1.05
+2026-04-28,WC26-BIH-QAT-2026-06-24,match_1x2,draw,0.2251,medium,poisson-goals-v0.1,Bosnia and Herzegovina att/def=0.91/1.22 | Qatar att/def=1.14/1.05
+2026-04-28,WC26-BIH-QAT-2026-06-24,match_1x2,away,0.5135,medium,poisson-goals-v0.1,Bosnia and Herzegovina att/def=0.91/1.22 | Qatar att/def=1.14/1.05
+2026-04-28,WC26-SCO-BRA-2026-06-24,match_1x2,home,0.1906,medium,poisson-goals-v0.1,Scotland att/def=1.14/1.04 | Brazil att/def=1.32/0.62
+2026-04-28,WC26-SCO-BRA-2026-06-24,match_1x2,draw,0.2241,medium,poisson-goals-v0.1,Scotland att/def=1.14/1.04 | Brazil att/def=1.32/0.62
+2026-04-28,WC26-SCO-BRA-2026-06-24,match_1x2,away,0.5853,medium,poisson-goals-v0.1,Scotland att/def=1.14/1.04 | Brazil att/def=1.32/0.62
+2026-04-28,WC26-MAR-HAI-2026-06-24,match_1x2,home,0.5317,medium,poisson-goals-v0.1,Morocco att/def=1.39/0.39 | Haiti att/def=1.81/0.86
+2026-04-28,WC26-MAR-HAI-2026-06-24,match_1x2,draw,0.2474,medium,poisson-goals-v0.1,Morocco att/def=1.39/0.39 | Haiti att/def=1.81/0.86
+2026-04-28,WC26-MAR-HAI-2026-06-24,match_1x2,away,0.221,medium,poisson-goals-v0.1,Morocco att/def=1.39/0.39 | Haiti att/def=1.81/0.86
+2026-04-28,WC26-USA-TUR-2026-06-25,match_1x2,home,0.5545,medium,poisson-goals-v0.1,United States att/def=1.27/0.74 | Turkey att/def=1.44/0.97
+2026-04-28,WC26-USA-TUR-2026-06-25,match_1x2,draw,0.2165,medium,poisson-goals-v0.1,United States att/def=1.27/0.74 | Turkey att/def=1.44/0.97
+2026-04-28,WC26-USA-TUR-2026-06-25,match_1x2,away,0.229,medium,poisson-goals-v0.1,United States att/def=1.27/0.74 | Turkey att/def=1.44/0.97
+2026-04-28,WC26-PAR-AUS-2026-06-25,match_1x2,home,0.1167,medium,poisson-goals-v0.1,Paraguay att/def=0.62/0.86 | Australia att/def=1.32/0.58
+2026-04-28,WC26-PAR-AUS-2026-06-25,match_1x2,draw,0.2529,medium,poisson-goals-v0.1,Paraguay att/def=0.62/0.86 | Australia att/def=1.32/0.58
+2026-04-28,WC26-PAR-AUS-2026-06-25,match_1x2,away,0.6304,medium,poisson-goals-v0.1,Paraguay att/def=0.62/0.86 | Australia att/def=1.32/0.58
+2026-04-28,WC26-CUW-CIV-2026-06-25,match_1x2,home,0.2395,medium,poisson-goals-v0.1,Curaçao att/def=1.35/0.88 | Ivory Coast att/def=1.32/0.55
+2026-04-28,WC26-CUW-CIV-2026-06-25,match_1x2,draw,0.2515,medium,poisson-goals-v0.1,Curaçao att/def=1.35/0.88 | Ivory Coast att/def=1.32/0.55
+2026-04-28,WC26-CUW-CIV-2026-06-25,match_1x2,away,0.5089,medium,poisson-goals-v0.1,Curaçao att/def=1.35/0.88 | Ivory Coast att/def=1.32/0.55
+2026-04-28,WC26-ECU-GER-2026-06-25,match_1x2,home,0.296,medium,poisson-goals-v0.1,Ecuador att/def=0.72/0.48 | Germany att/def=1.56/0.87
+2026-04-28,WC26-ECU-GER-2026-06-25,match_1x2,draw,0.3196,medium,poisson-goals-v0.1,Ecuador att/def=0.72/0.48 | Germany att/def=1.56/0.87
+2026-04-28,WC26-ECU-GER-2026-06-25,match_1x2,away,0.3844,medium,poisson-goals-v0.1,Ecuador att/def=0.72/0.48 | Germany att/def=1.56/0.87
+2026-04-28,WC26-JPN-SWE-2026-06-25,match_1x2,home,0.7538,medium,poisson-goals-v0.1,Japan att/def=1.89/0.52 | Sweden att/def=1.31/1.07
+2026-04-28,WC26-JPN-SWE-2026-06-25,match_1x2,draw,0.146,medium,poisson-goals-v0.1,Japan att/def=1.89/0.52 | Sweden att/def=1.31/1.07
+2026-04-28,WC26-JPN-SWE-2026-06-25,match_1x2,away,0.1002,medium,poisson-goals-v0.1,Japan att/def=1.89/0.52 | Sweden att/def=1.31/1.07
+2026-04-28,WC26-TUN-NED-2026-06-25,match_1x2,home,0.3543,medium,poisson-goals-v0.1,Tunisia att/def=0.99/0.44 | Netherlands att/def=1.71/0.77
+2026-04-28,WC26-TUN-NED-2026-06-25,match_1x2,draw,0.3052,medium,poisson-goals-v0.1,Tunisia att/def=0.99/0.44 | Netherlands att/def=1.71/0.77
+2026-04-28,WC26-TUN-NED-2026-06-25,match_1x2,away,0.3405,medium,poisson-goals-v0.1,Tunisia att/def=0.99/0.44 | Netherlands att/def=1.71/0.77
+2026-04-28,WC26-EGY-IRI-2026-06-26,match_1x2,home,0.3671,medium,poisson-goals-v0.1,Egypt att/def=1.08/0.49 | Iran att/def=1.41/0.70
+2026-04-28,WC26-EGY-IRI-2026-06-26,match_1x2,draw,0.3124,medium,poisson-goals-v0.1,Egypt att/def=1.08/0.49 | Iran att/def=1.41/0.70
+2026-04-28,WC26-EGY-IRI-2026-06-26,match_1x2,away,0.3205,medium,poisson-goals-v0.1,Egypt att/def=1.08/0.49 | Iran att/def=1.41/0.70
+2026-04-28,WC26-NZL-BEL-2026-06-26,match_1x2,home,0.4651,medium,poisson-goals-v0.1,New Zealand att/def=1.78/0.62 | Belgium att/def=1.46/0.67
+2026-04-28,WC26-NZL-BEL-2026-06-26,match_1x2,draw,0.2464,medium,poisson-goals-v0.1,New Zealand att/def=1.78/0.62 | Belgium att/def=1.46/0.67
+2026-04-28,WC26-NZL-BEL-2026-06-26,match_1x2,away,0.2885,medium,poisson-goals-v0.1,New Zealand att/def=1.78/0.62 | Belgium att/def=1.46/0.67
+2026-04-28,WC26-CPV-KSA-2026-06-26,match_1x2,home,0.367,medium,poisson-goals-v0.1,Cape Verde att/def=0.91/0.69 | Saudi Arabia att/def=0.80/0.72
+2026-04-28,WC26-CPV-KSA-2026-06-26,match_1x2,draw,0.3489,medium,poisson-goals-v0.1,Cape Verde att/def=0.91/0.69 | Saudi Arabia att/def=0.80/0.72
+2026-04-28,WC26-CPV-KSA-2026-06-26,match_1x2,away,0.284,medium,poisson-goals-v0.1,Cape Verde att/def=0.91/0.69 | Saudi Arabia att/def=0.80/0.72
+2026-04-28,WC26-URU-ESP-2026-06-26,match_1x2,home,0.2515,medium,poisson-goals-v0.1,Uruguay att/def=1.05/0.48 | Spain att/def=1.84/0.57
+2026-04-28,WC26-URU-ESP-2026-06-26,match_1x2,draw,0.3,medium,poisson-goals-v0.1,Uruguay att/def=1.05/0.48 | Spain att/def=1.84/0.57
+2026-04-28,WC26-URU-ESP-2026-06-26,match_1x2,away,0.4485,medium,poisson-goals-v0.1,Uruguay att/def=1.05/0.48 | Spain att/def=1.84/0.57
+2026-04-28,WC26-NOR-FRA-2026-06-26,match_1x2,home,0.3883,medium,poisson-goals-v0.1,Norway att/def=1.89/0.77 | France att/def=1.56/0.64
+2026-04-28,WC26-NOR-FRA-2026-06-26,match_1x2,draw,0.2316,medium,poisson-goals-v0.1,Norway att/def=1.89/0.77 | France att/def=1.56/0.64
+2026-04-28,WC26-NOR-FRA-2026-06-26,match_1x2,away,0.3802,medium,poisson-goals-v0.1,Norway att/def=1.89/0.77 | France att/def=1.56/0.64
+2026-04-28,WC26-SEN-IRQ-2026-06-26,match_1x2,home,0.4783,medium,poisson-goals-v0.1,Senegal att/def=1.30/0.47 | Iraq att/def=1.08/0.67
+2026-04-28,WC26-SEN-IRQ-2026-06-26,match_1x2,draw,0.3085,medium,poisson-goals-v0.1,Senegal att/def=1.30/0.47 | Iraq att/def=1.08/0.67
+2026-04-28,WC26-SEN-IRQ-2026-06-26,match_1x2,away,0.2133,medium,poisson-goals-v0.1,Senegal att/def=1.30/0.47 | Iraq att/def=1.08/0.67
+2026-04-28,WC26-ALG-AUT-2026-06-27,match_1x2,home,0.4321,medium,poisson-goals-v0.1,Algeria att/def=1.39/0.56 | Austria att/def=1.48/0.74
+2026-04-28,WC26-ALG-AUT-2026-06-27,match_1x2,draw,0.2665,medium,poisson-goals-v0.1,Algeria att/def=1.39/0.56 | Austria att/def=1.48/0.74
+2026-04-28,WC26-ALG-AUT-2026-06-27,match_1x2,away,0.3014,medium,poisson-goals-v0.1,Algeria att/def=1.39/0.56 | Austria att/def=1.48/0.74
+2026-04-28,WC26-JOR-ARG-2026-06-27,match_1x2,home,0.164,medium,poisson-goals-v0.1,Jordan att/def=1.34/0.79 | Argentina att/def=1.53/0.40
+2026-04-28,WC26-JOR-ARG-2026-06-27,match_1x2,draw,0.246,medium,poisson-goals-v0.1,Jordan att/def=1.34/0.79 | Argentina att/def=1.53/0.40
+2026-04-28,WC26-JOR-ARG-2026-06-27,match_1x2,away,0.59,medium,poisson-goals-v0.1,Jordan att/def=1.34/0.79 | Argentina att/def=1.53/0.40
+2026-04-28,WC26-COL-POR-2026-06-27,match_1x2,home,0.2492,medium,poisson-goals-v0.1,Colombia att/def=1.29/0.60 | Portugal att/def=1.84/0.57
+2026-04-28,WC26-COL-POR-2026-06-27,match_1x2,draw,0.2598,medium,poisson-goals-v0.1,Colombia att/def=1.29/0.60 | Portugal att/def=1.84/0.57
+2026-04-28,WC26-COL-POR-2026-06-27,match_1x2,away,0.491,medium,poisson-goals-v0.1,Colombia att/def=1.29/0.60 | Portugal att/def=1.84/0.57
+2026-04-28,WC26-COD-UZB-2026-06-27,match_1x2,home,0.2222,medium,poisson-goals-v0.1,DR Congo att/def=0.88/0.51 | Uzbekistan att/def=1.30/0.48
+2026-04-28,WC26-COD-UZB-2026-06-27,match_1x2,draw,0.3638,medium,poisson-goals-v0.1,DR Congo att/def=0.88/0.51 | Uzbekistan att/def=1.30/0.48
+2026-04-28,WC26-COD-UZB-2026-06-27,match_1x2,away,0.414,medium,poisson-goals-v0.1,DR Congo att/def=0.88/0.51 | Uzbekistan att/def=1.30/0.48
+2026-04-28,WC26-PAN-ENG-2026-06-27,match_1x2,home,0.1597,medium,poisson-goals-v0.1,Panama att/def=1.13/0.89 | England att/def=1.52/0.52
+2026-04-28,WC26-PAN-ENG-2026-06-27,match_1x2,draw,0.2245,medium,poisson-goals-v0.1,Panama att/def=1.13/0.89 | England att/def=1.52/0.52
+2026-04-28,WC26-PAN-ENG-2026-06-27,match_1x2,away,0.6158,medium,poisson-goals-v0.1,Panama att/def=1.13/0.89 | England att/def=1.52/0.52
+2026-04-28,WC26-CRO-GHA-2026-06-27,match_1x2,home,0.5238,medium,poisson-goals-v0.1,Croatia att/def=1.25/0.70 | Ghana att/def=1.00/0.95
+2026-04-28,WC26-CRO-GHA-2026-06-27,match_1x2,draw,0.251,medium,poisson-goals-v0.1,Croatia att/def=1.25/0.70 | Ghana att/def=1.00/0.95
+2026-04-28,WC26-CRO-GHA-2026-06-27,match_1x2,away,0.2251,medium,poisson-goals-v0.1,Croatia att/def=1.25/0.70 | Ghana att/def=1.00/0.95

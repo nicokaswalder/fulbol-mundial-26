@@ -1,0 +1,193 @@
+as_of_date,match_id,match,market_type,outcome,p_model,actual_result,model_pred,correct,score,confidence,model_version,notes
+2022-11-19,Qatar-Ecuador,Qatar vs Ecuador,match_1x2,home,0.221,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Qatar-Ecuador,Qatar vs Ecuador,match_1x2,draw,0.355,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Qatar-Ecuador,Qatar vs Ecuador,match_1x2,away,0.424,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Senegal-Netherlands,Senegal vs Netherlands,match_1x2,home,0.195,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Senegal-Netherlands,Senegal vs Netherlands,match_1x2,draw,0.312,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Senegal-Netherlands,Senegal vs Netherlands,match_1x2,away,0.492,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-Iran,England vs Iran,match_1x2,home,0.301,H,D,✗,6-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-Iran,England vs Iran,match_1x2,draw,0.384,H,D,✗,6-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-Iran,England vs Iran,match_1x2,away,0.315,H,D,✗,6-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,United_States-Wales,United States vs Wales,match_1x2,home,0.565,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,United_States-Wales,United States vs Wales,match_1x2,draw,0.302,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,United_States-Wales,United States vs Wales,match_1x2,away,0.132,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Saudi_Arabia,Argentina vs Saudi Arabia,match_1x2,home,0.609,A,H,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Saudi_Arabia,Argentina vs Saudi Arabia,match_1x2,draw,0.279,A,H,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Saudi_Arabia,Argentina vs Saudi Arabia,match_1x2,away,0.111,A,H,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Mexico-Poland,Mexico vs Poland,match_1x2,home,0.469,D,H,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Mexico-Poland,Mexico vs Poland,match_1x2,draw,0.339,D,H,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Mexico-Poland,Mexico vs Poland,match_1x2,away,0.192,D,H,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Denmark-Tunisia,Denmark vs Tunisia,match_1x2,home,0.332,D,D,✓,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Denmark-Tunisia,Denmark vs Tunisia,match_1x2,draw,0.379,D,D,✓,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Denmark-Tunisia,Denmark vs Tunisia,match_1x2,away,0.288,D,D,✓,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Australia,France vs Australia,match_1x2,home,0.341,H,D,✗,4-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Australia,France vs Australia,match_1x2,draw,0.366,H,D,✗,4-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Australia,France vs Australia,match_1x2,away,0.293,H,D,✗,4-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Germany-Japan,Germany vs Japan,match_1x2,home,0.246,A,A,✓,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Germany-Japan,Germany vs Japan,match_1x2,draw,0.342,A,A,✓,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Germany-Japan,Germany vs Japan,match_1x2,away,0.412,A,A,✓,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Spain-Costa_Rica,Spain vs Costa Rica,match_1x2,home,0.479,H,H,✓,7-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Spain-Costa_Rica,Spain vs Costa Rica,match_1x2,draw,0.303,H,H,✓,7-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Spain-Costa_Rica,Spain vs Costa Rica,match_1x2,away,0.217,H,H,✓,7-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Morocco-Croatia,Morocco vs Croatia,match_1x2,home,0.412,D,H,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Morocco-Croatia,Morocco vs Croatia,match_1x2,draw,0.348,D,H,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Morocco-Croatia,Morocco vs Croatia,match_1x2,away,0.24,D,H,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Belgium-Canada,Belgium vs Canada,match_1x2,home,0.295,H,A,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Belgium-Canada,Belgium vs Canada,match_1x2,draw,0.34,H,A,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Belgium-Canada,Belgium vs Canada,match_1x2,away,0.365,H,A,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Switzerland-Cameroon,Switzerland vs Cameroon,match_1x2,home,0.379,H,H,✓,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Switzerland-Cameroon,Switzerland vs Cameroon,match_1x2,draw,0.363,H,H,✓,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Switzerland-Cameroon,Switzerland vs Cameroon,match_1x2,away,0.257,H,H,✓,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Brazil-Serbia,Brazil vs Serbia,match_1x2,home,0.719,H,H,✓,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Brazil-Serbia,Brazil vs Serbia,match_1x2,draw,0.181,H,H,✓,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Brazil-Serbia,Brazil vs Serbia,match_1x2,away,0.101,H,H,✓,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Uruguay-South_Korea,Uruguay vs South Korea,match_1x2,home,0.385,D,H,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Uruguay-South_Korea,Uruguay vs South Korea,match_1x2,draw,0.376,D,H,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Uruguay-South_Korea,Uruguay vs South Korea,match_1x2,away,0.238,D,H,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Portugal-Ghana,Portugal vs Ghana,match_1x2,home,0.598,H,H,✓,3-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Portugal-Ghana,Portugal vs Ghana,match_1x2,draw,0.273,H,H,✓,3-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Portugal-Ghana,Portugal vs Ghana,match_1x2,away,0.129,H,H,✓,3-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Qatar-Senegal,Qatar vs Senegal,match_1x2,home,0.284,A,D,✗,1-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Qatar-Senegal,Qatar vs Senegal,match_1x2,draw,0.36,A,D,✗,1-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Qatar-Senegal,Qatar vs Senegal,match_1x2,away,0.356,A,D,✗,1-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Netherlands-Ecuador,Netherlands vs Ecuador,match_1x2,home,0.417,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Netherlands-Ecuador,Netherlands vs Ecuador,match_1x2,draw,0.298,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Netherlands-Ecuador,Netherlands vs Ecuador,match_1x2,away,0.286,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Wales-Iran,Wales vs Iran,match_1x2,home,0.151,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Wales-Iran,Wales vs Iran,match_1x2,draw,0.333,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Wales-Iran,Wales vs Iran,match_1x2,away,0.516,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-United_States,England vs United States,match_1x2,home,0.268,D,D,✓,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-United_States,England vs United States,match_1x2,draw,0.371,D,D,✓,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-United_States,England vs United States,match_1x2,away,0.361,D,D,✓,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Poland-Saudi_Arabia,Poland vs Saudi Arabia,match_1x2,home,0.266,H,D,✗,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Poland-Saudi_Arabia,Poland vs Saudi Arabia,match_1x2,draw,0.388,H,D,✗,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Poland-Saudi_Arabia,Poland vs Saudi Arabia,match_1x2,away,0.345,H,D,✗,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Mexico,Argentina vs Mexico,match_1x2,home,0.542,H,H,✓,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Mexico,Argentina vs Mexico,match_1x2,draw,0.313,H,H,✓,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Mexico,Argentina vs Mexico,match_1x2,away,0.144,H,H,✓,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Tunisia-Australia,Tunisia vs Australia,match_1x2,home,0.289,A,D,✗,0-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Tunisia-Australia,Tunisia vs Australia,match_1x2,draw,0.397,A,D,✗,0-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Tunisia-Australia,Tunisia vs Australia,match_1x2,away,0.314,A,D,✗,0-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Denmark,France vs Denmark,match_1x2,home,0.333,H,D,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Denmark,France vs Denmark,match_1x2,draw,0.369,H,D,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Denmark,France vs Denmark,match_1x2,away,0.298,H,D,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Japan-Costa_Rica,Japan vs Costa Rica,match_1x2,home,0.428,A,H,✗,0-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Japan-Costa_Rica,Japan vs Costa Rica,match_1x2,draw,0.363,A,H,✗,0-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Japan-Costa_Rica,Japan vs Costa Rica,match_1x2,away,0.209,A,H,✗,0-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Spain-Germany,Spain vs Germany,match_1x2,home,0.453,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Spain-Germany,Spain vs Germany,match_1x2,draw,0.327,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Spain-Germany,Spain vs Germany,match_1x2,away,0.22,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Belgium-Morocco,Belgium vs Morocco,match_1x2,home,0.347,A,H,✗,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Belgium-Morocco,Belgium vs Morocco,match_1x2,draw,0.344,A,H,✗,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Belgium-Morocco,Belgium vs Morocco,match_1x2,away,0.309,A,H,✗,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Canada,Croatia vs Canada,match_1x2,home,0.202,H,A,✗,4-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Canada,Croatia vs Canada,match_1x2,draw,0.335,H,A,✗,4-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Canada,Croatia vs Canada,match_1x2,away,0.463,H,A,✗,4-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Cameroon-Serbia,Cameroon vs Serbia,match_1x2,home,0.213,D,A,✗,3-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Cameroon-Serbia,Cameroon vs Serbia,match_1x2,draw,0.325,D,A,✗,3-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Cameroon-Serbia,Cameroon vs Serbia,match_1x2,away,0.462,D,A,✗,3-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Brazil-Switzerland,Brazil vs Switzerland,match_1x2,home,0.752,H,H,✓,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Brazil-Switzerland,Brazil vs Switzerland,match_1x2,draw,0.165,H,H,✓,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Brazil-Switzerland,Brazil vs Switzerland,match_1x2,away,0.083,H,H,✓,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,South_Korea-Ghana,South Korea vs Ghana,match_1x2,home,0.477,A,H,✗,2-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,South_Korea-Ghana,South Korea vs Ghana,match_1x2,draw,0.358,A,H,✗,2-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,South_Korea-Ghana,South Korea vs Ghana,match_1x2,away,0.165,A,H,✗,2-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Portugal-Uruguay,Portugal vs Uruguay,match_1x2,home,0.341,H,D,✗,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Portugal-Uruguay,Portugal vs Uruguay,match_1x2,draw,0.36,H,D,✗,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Portugal-Uruguay,Portugal vs Uruguay,match_1x2,away,0.299,H,D,✗,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Ecuador-Senegal,Ecuador vs Senegal,match_1x2,home,0.381,A,H,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Ecuador-Senegal,Ecuador vs Senegal,match_1x2,draw,0.358,A,H,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Ecuador-Senegal,Ecuador vs Senegal,match_1x2,away,0.262,A,H,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Qatar-Netherlands,Qatar vs Netherlands,match_1x2,home,0.189,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Qatar-Netherlands,Qatar vs Netherlands,match_1x2,draw,0.267,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Qatar-Netherlands,Qatar vs Netherlands,match_1x2,away,0.544,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Wales-England,Wales vs England,match_1x2,home,0.159,A,A,✓,0-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Wales-England,Wales vs England,match_1x2,draw,0.31,A,A,✓,0-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Wales-England,Wales vs England,match_1x2,away,0.531,A,A,✓,0-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Iran-United_States,Iran vs United States,match_1x2,home,0.269,A,D,✗,0-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Iran-United_States,Iran vs United States,match_1x2,draw,0.394,A,D,✗,0-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Iran-United_States,Iran vs United States,match_1x2,away,0.337,A,D,✗,0-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Poland-Argentina,Poland vs Argentina,match_1x2,home,0.093,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Poland-Argentina,Poland vs Argentina,match_1x2,draw,0.192,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Poland-Argentina,Poland vs Argentina,match_1x2,away,0.715,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Saudi_Arabia-Mexico,Saudi Arabia vs Mexico,match_1x2,home,0.212,A,D,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Saudi_Arabia-Mexico,Saudi Arabia vs Mexico,match_1x2,draw,0.414,A,D,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Saudi_Arabia-Mexico,Saudi Arabia vs Mexico,match_1x2,away,0.374,A,D,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Australia-Denmark,Australia vs Denmark,match_1x2,home,0.303,H,D,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Australia-Denmark,Australia vs Denmark,match_1x2,draw,0.377,H,D,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Australia-Denmark,Australia vs Denmark,match_1x2,away,0.32,H,D,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Tunisia-France,Tunisia vs France,match_1x2,home,0.279,H,D,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Tunisia-France,Tunisia vs France,match_1x2,draw,0.366,H,D,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Tunisia-France,Tunisia vs France,match_1x2,away,0.354,H,D,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Japan-Spain,Japan vs Spain,match_1x2,home,0.295,H,D,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Japan-Spain,Japan vs Spain,match_1x2,draw,0.354,H,D,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Japan-Spain,Japan vs Spain,match_1x2,away,0.351,H,D,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Costa_Rica-Germany,Costa Rica vs Germany,match_1x2,home,0.296,A,A,✓,2-4,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Costa_Rica-Germany,Costa Rica vs Germany,match_1x2,draw,0.326,A,A,✓,2-4,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Costa_Rica-Germany,Costa Rica vs Germany,match_1x2,away,0.379,A,A,✓,2-4,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Belgium,Croatia vs Belgium,match_1x2,home,0.236,D,A,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Belgium,Croatia vs Belgium,match_1x2,draw,0.308,D,A,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Belgium,Croatia vs Belgium,match_1x2,away,0.456,D,A,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Canada-Morocco,Canada vs Morocco,match_1x2,home,0.362,A,D,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Canada-Morocco,Canada vs Morocco,match_1x2,draw,0.372,A,D,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Canada-Morocco,Canada vs Morocco,match_1x2,away,0.266,A,D,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Serbia-Switzerland,Serbia vs Switzerland,match_1x2,home,0.395,A,H,✗,2-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Serbia-Switzerland,Serbia vs Switzerland,match_1x2,draw,0.346,A,H,✗,2-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Serbia-Switzerland,Serbia vs Switzerland,match_1x2,away,0.259,A,H,✗,2-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Cameroon-Brazil,Cameroon vs Brazil,match_1x2,home,0.08,H,A,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Cameroon-Brazil,Cameroon vs Brazil,match_1x2,draw,0.139,H,A,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Cameroon-Brazil,Cameroon vs Brazil,match_1x2,away,0.781,H,A,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Ghana-Uruguay,Ghana vs Uruguay,match_1x2,home,0.129,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Ghana-Uruguay,Ghana vs Uruguay,match_1x2,draw,0.315,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Ghana-Uruguay,Ghana vs Uruguay,match_1x2,away,0.556,A,A,✓,0-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,South_Korea-Portugal,South Korea vs Portugal,match_1x2,home,0.228,H,A,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,South_Korea-Portugal,South Korea vs Portugal,match_1x2,draw,0.349,H,A,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,South_Korea-Portugal,South Korea vs Portugal,match_1x2,away,0.423,H,A,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Netherlands-United_States,Netherlands vs United States,match_1x2,home,0.32,H,A,✗,3-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Netherlands-United_States,Netherlands vs United States,match_1x2,draw,0.334,H,A,✗,3-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Netherlands-United_States,Netherlands vs United States,match_1x2,away,0.346,H,A,✗,3-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Australia,Argentina vs Australia,match_1x2,home,0.544,H,H,✓,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Australia,Argentina vs Australia,match_1x2,draw,0.31,H,H,✓,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Australia,Argentina vs Australia,match_1x2,away,0.145,H,H,✓,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Poland,France vs Poland,match_1x2,home,0.523,H,H,✓,3-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Poland,France vs Poland,match_1x2,draw,0.296,H,H,✓,3-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Poland,France vs Poland,match_1x2,away,0.181,H,H,✓,3-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-Senegal,England vs Senegal,match_1x2,home,0.433,H,H,✓,3-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-Senegal,England vs Senegal,match_1x2,draw,0.352,H,H,✓,3-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-Senegal,England vs Senegal,match_1x2,away,0.215,H,H,✓,3-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Japan-Croatia,Japan vs Croatia,match_1x2,home,0.471,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Japan-Croatia,Japan vs Croatia,match_1x2,draw,0.332,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Japan-Croatia,Japan vs Croatia,match_1x2,away,0.197,D,H,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Brazil-South_Korea,Brazil vs South Korea,match_1x2,home,0.669,H,H,✓,4-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Brazil-South_Korea,Brazil vs South Korea,match_1x2,draw,0.223,H,H,✓,4-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Brazil-South_Korea,Brazil vs South Korea,match_1x2,away,0.108,H,H,✓,4-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Morocco-Spain,Morocco vs Spain,match_1x2,home,0.248,D,A,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Morocco-Spain,Morocco vs Spain,match_1x2,draw,0.336,D,A,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Morocco-Spain,Morocco vs Spain,match_1x2,away,0.417,D,A,✗,0-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Portugal-Switzerland,Portugal vs Switzerland,match_1x2,home,0.526,H,H,✓,6-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Portugal-Switzerland,Portugal vs Switzerland,match_1x2,draw,0.303,H,H,✓,6-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Portugal-Switzerland,Portugal vs Switzerland,match_1x2,away,0.171,H,H,✓,6-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Brazil,Croatia vs Brazil,match_1x2,home,0.097,D,A,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Brazil,Croatia vs Brazil,match_1x2,draw,0.163,D,A,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Brazil,Croatia vs Brazil,match_1x2,away,0.74,D,A,✗,1-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Netherlands-Argentina,Netherlands vs Argentina,match_1x2,home,0.175,D,A,✗,2-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Netherlands-Argentina,Netherlands vs Argentina,match_1x2,draw,0.312,D,A,✗,2-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Netherlands-Argentina,Netherlands vs Argentina,match_1x2,away,0.513,D,A,✗,2-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Morocco-Portugal,Morocco vs Portugal,match_1x2,home,0.245,H,A,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Morocco-Portugal,Morocco vs Portugal,match_1x2,draw,0.35,H,A,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Morocco-Portugal,Morocco vs Portugal,match_1x2,away,0.404,H,A,✗,1-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-France,England vs France,match_1x2,home,0.303,A,D,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-France,England vs France,match_1x2,draw,0.364,A,D,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,England-France,England vs France,match_1x2,away,0.333,A,D,✗,1-2,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Croatia,Argentina vs Croatia,match_1x2,home,0.647,H,H,✓,3-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Croatia,Argentina vs Croatia,match_1x2,draw,0.234,H,H,✓,3-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-Croatia,Argentina vs Croatia,match_1x2,away,0.119,H,H,✓,3-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Morocco,France vs Morocco,match_1x2,home,0.337,H,D,✗,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Morocco,France vs Morocco,match_1x2,draw,0.362,H,D,✗,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,France-Morocco,France vs Morocco,match_1x2,away,0.301,H,D,✗,2-0,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Morocco,Croatia vs Morocco,match_1x2,home,0.24,H,A,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Morocco,Croatia vs Morocco,match_1x2,draw,0.348,H,A,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Croatia-Morocco,Croatia vs Morocco,match_1x2,away,0.412,H,A,✗,2-1,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-France,Argentina vs France,match_1x2,home,0.529,D,H,✗,3-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-France,Argentina vs France,match_1x2,draw,0.317,D,H,✗,3-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
+2022-11-19,Argentina-France,Argentina vs France,match_1x2,away,0.154,D,H,✗,3-3,medium,ensemble-e3-v0.1,Elo(0.35)+Poisson(0.45)+Form(0.20); trained on 2012-2022-11-19
