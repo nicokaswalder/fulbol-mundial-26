@@ -15,5 +15,9 @@
 | **Markets covered (v1)** | `match_1x2`, `outright_winner`, `group_winner` |
 | **Markets covered (v2)** | + `team_advances`, totals, BTTS |
 | **Known limitations** | International xG is sparse — model leans on club-xG aggregation through projected lineups; lineup YAMLs need updating after each FIFA squad announcement; small-sample teams (e.g. Ghana, Cape Verde) get wider posteriors and fewer actionable rows |
-| **Validation status** | Plan complete 2026-04-28; live data sources verified; implementation pending |
+| **Validation status** | WC 2022 backtest complete 2026-04-28. ensemble-v2 log-loss 1.054 (beats ensemble-e3 1.062). Form model strongest individual predictor (46.9% accuracy, matches Pinnacle). xG-Poisson needs more training data. |
+| **Backtest results** | `results/comparisons/wc2022-backtest/` — per-match predictions and summary metrics |
+| **Betting rule** | Only bet Golden Zone matches (all 3 models agree). Skip 3-way splits. Edge threshold: model_p > market_p by ≥3%. Realistic ROI: +5.2% across all "models agree" games. |
 | **Plan** | [`docs/plans/2026-04-28-001-feat-wc26-prediction-edge-finder-plan.md`](docs/plans/2026-04-28-001-feat-wc26-prediction-edge-finder-plan.md) |
+| **Model roles** | [`../docs/solutions/best-practices/model-roles-and-best-use-2026-04-28.md`](../docs/solutions/best-practices/model-roles-and-best-use-2026-04-28.md) |
+| **Next priority** | Pull xG for Nations League + WC qualifying to expand xG-Poisson training data. Wire in player lineup xG ratings (Understat data already in `data/derived/`). |

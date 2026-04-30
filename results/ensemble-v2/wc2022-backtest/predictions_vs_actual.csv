@@ -1,0 +1,65 @@
+as_of_date,match,score,p_home,p_draw,p_away,pred,actual,correct,model_version
+2022-11-19,Qatar vs Ecuador,0-2,0.2761,0.3407,0.3832,A,A,✓,ensemble-v2
+2022-11-19,Senegal vs Netherlands,0-2,0.2214,0.302,0.4766,A,A,✓,ensemble-v2
+2022-11-19,England vs Iran,6-2,0.2796,0.3326,0.3878,A,H,✗,ensemble-v2
+2022-11-19,United States vs Wales,1-1,0.5346,0.2938,0.1716,H,D,✗,ensemble-v2
+2022-11-19,Argentina vs Saudi Arabia,1-2,0.5595,0.278,0.1624,H,A,✗,ensemble-v2
+2022-11-19,Mexico vs Poland,0-0,0.4374,0.3302,0.2324,H,D,✗,ensemble-v2
+2022-11-19,Denmark vs Tunisia,0-0,0.3246,0.3325,0.3429,A,D,✗,ensemble-v2
+2022-11-19,France vs Australia,4-1,0.3424,0.3439,0.3137,D,H,✗,ensemble-v2
+2022-11-19,Germany vs Japan,1-2,0.2767,0.3322,0.3911,A,A,✓,ensemble-v2
+2022-11-19,Spain vs Costa Rica,7-0,0.4633,0.243,0.2937,H,H,✓,ensemble-v2
+2022-11-19,Morocco vs Croatia,0-0,0.439,0.3035,0.2575,H,D,✗,ensemble-v2
+2022-11-19,Belgium vs Canada,1-0,0.3041,0.3199,0.3761,A,H,✗,ensemble-v2
+2022-11-19,Portugal vs Ghana,3-2,0.567,0.2639,0.169,H,H,✓,ensemble-v2
+2022-11-19,Uruguay vs South Korea,0-0,0.3617,0.351,0.2873,H,D,✗,ensemble-v2
+2022-11-19,Switzerland vs Cameroon,1-0,0.3498,0.3193,0.3309,H,H,✓,ensemble-v2
+2022-11-19,Brazil vs Serbia,2-0,0.6471,0.196,0.1569,H,H,✓,ensemble-v2
+2022-11-19,Qatar vs Senegal,1-3,0.2973,0.34,0.3626,A,A,✓,ensemble-v2
+2022-11-19,Netherlands vs Ecuador,1-1,0.4594,0.2805,0.2601,H,D,✗,ensemble-v2
+2022-11-19,Wales vs Iran,0-2,0.1792,0.3106,0.5103,A,A,✓,ensemble-v2
+2022-11-19,England vs United States,0-0,0.2653,0.3211,0.4136,A,D,✗,ensemble-v2
+2022-11-19,Poland vs Saudi Arabia,2-0,0.2786,0.3621,0.3592,D,H,✗,ensemble-v2
+2022-11-19,Argentina vs Mexico,2-0,0.5263,0.2913,0.1825,H,H,✓,ensemble-v2
+2022-11-19,Tunisia vs Australia,0-1,0.3008,0.364,0.3352,D,A,✗,ensemble-v2
+2022-11-19,France vs Denmark,2-1,0.378,0.3345,0.2876,H,H,✓,ensemble-v2
+2022-11-19,Croatia vs Canada,4-1,0.2248,0.2809,0.4944,A,H,✗,ensemble-v2
+2022-11-19,Japan vs Costa Rica,0-1,0.4378,0.3194,0.2429,H,A,✗,ensemble-v2
+2022-11-19,Spain vs Germany,1-1,0.402,0.3043,0.2936,H,D,✗,ensemble-v2
+2022-11-19,Belgium vs Morocco,0-2,0.3419,0.333,0.3251,H,A,✗,ensemble-v2
+2022-11-19,South Korea vs Ghana,2-3,0.4587,0.3368,0.2044,H,A,✗,ensemble-v2
+2022-11-19,Portugal vs Uruguay,2-0,0.3886,0.3338,0.2776,H,H,✓,ensemble-v2
+2022-11-19,Cameroon vs Serbia,3-3,0.2401,0.3108,0.4491,A,D,✗,ensemble-v2
+2022-11-19,Brazil vs Switzerland,1-0,0.7253,0.1524,0.1223,H,H,✓,ensemble-v2
+2022-11-19,Ecuador vs Senegal,1-2,0.3428,0.3463,0.3109,D,A,✗,ensemble-v2
+2022-11-19,Qatar vs Netherlands,0-2,0.2182,0.2562,0.5256,A,A,✓,ensemble-v2
+2022-11-19,Wales vs England,0-3,0.2234,0.2935,0.4831,A,A,✓,ensemble-v2
+2022-11-19,Iran vs United States,0-1,0.3019,0.3669,0.3311,D,A,✗,ensemble-v2
+2022-11-19,Poland vs Argentina,0-2,0.1415,0.2096,0.6489,A,A,✓,ensemble-v2
+2022-11-19,Saudi Arabia vs Mexico,1-2,0.2587,0.3802,0.3611,D,A,✗,ensemble-v2
+2022-11-19,Australia vs Denmark,1-0,0.3688,0.3247,0.3065,H,H,✓,ensemble-v2
+2022-11-19,Tunisia vs France,1-0,0.2931,0.3478,0.3591,A,H,✗,ensemble-v2
+2022-11-19,Japan vs Spain,2-1,0.3731,0.2891,0.3378,H,H,✓,ensemble-v2
+2022-11-19,Costa Rica vs Germany,2-4,0.2986,0.3076,0.3938,A,A,✓,ensemble-v2
+2022-11-19,Croatia vs Belgium,0-0,0.2617,0.2782,0.46,A,D,✗,ensemble-v2
+2022-11-19,Canada vs Morocco,1-2,0.3672,0.3454,0.2874,H,A,✗,ensemble-v2
+2022-11-19,South Korea vs Portugal,2-1,0.2461,0.3261,0.4279,A,H,✗,ensemble-v2
+2022-11-19,Ghana vs Uruguay,0-2,0.184,0.3124,0.5037,A,A,✓,ensemble-v2
+2022-11-19,Serbia vs Switzerland,2-3,0.4546,0.3061,0.2394,H,A,✗,ensemble-v2
+2022-11-19,Cameroon vs Brazil,1-0,0.1299,0.1602,0.7099,A,H,✗,ensemble-v2
+2022-11-19,Netherlands vs United States,3-1,0.3553,0.3198,0.3249,H,H,✓,ensemble-v2
+2022-11-19,Argentina vs Australia,2-1,0.4978,0.3014,0.2009,H,H,✓,ensemble-v2
+2022-11-19,France vs Poland,3-1,0.4974,0.2933,0.2094,H,H,✓,ensemble-v2
+2022-11-19,England vs Senegal,3-0,0.3808,0.3318,0.2873,H,H,✓,ensemble-v2
+2022-11-19,Japan vs Croatia,1-1,0.5166,0.2715,0.212,H,D,✗,ensemble-v2
+2022-11-19,Brazil vs South Korea,4-1,0.615,0.2256,0.1594,H,H,✓,ensemble-v2
+2022-11-19,Portugal vs Switzerland,6-1,0.5712,0.255,0.1738,H,H,✓,ensemble-v2
+2022-11-19,Morocco vs Spain,0-0,0.2995,0.2926,0.4079,A,D,✗,ensemble-v2
+2022-11-19,Croatia vs Brazil,1-1,0.1459,0.1501,0.7041,A,D,✗,ensemble-v2
+2022-11-19,Netherlands vs Argentina,2-2,0.229,0.3134,0.4576,A,D,✗,ensemble-v2
+2022-11-19,Morocco vs Portugal,1-0,0.2588,0.3323,0.4089,A,H,✗,ensemble-v2
+2022-11-19,England vs France,1-2,0.2722,0.3298,0.3979,A,A,✓,ensemble-v2
+2022-11-19,Argentina vs Croatia,3-0,0.6269,0.2087,0.1645,H,H,✓,ensemble-v2
+2022-11-19,France vs Morocco,2-0,0.3416,0.3484,0.31,D,H,✗,ensemble-v2
+2022-11-19,Croatia vs Morocco,2-1,0.2575,0.3035,0.439,A,H,✗,ensemble-v2
+2022-11-19,Argentina vs France,3-3,0.4781,0.3191,0.2028,H,D,✗,ensemble-v2

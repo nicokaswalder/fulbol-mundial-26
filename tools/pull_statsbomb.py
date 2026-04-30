@@ -26,6 +26,8 @@ DERIVED.mkdir(parents=True, exist_ok=True)
 
 # National team competitions in the free open data
 TARGETS = [
+    {"slug": "wc2018",       "competition_id": 43,  "season_id": 3,   "label": "FIFA World Cup 2018"},
+    {"slug": "euro2020",     "competition_id": 55,  "season_id": 43,  "label": "UEFA Euro 2020"},
     {"slug": "wc2022",       "competition_id": 43,  "season_id": 106, "label": "FIFA World Cup 2022"},
     {"slug": "euro2024",     "competition_id": 55,  "season_id": 282, "label": "UEFA Euro 2024"},
     {"slug": "copa2024",     "competition_id": 223, "season_id": 282, "label": "Copa America 2024"},

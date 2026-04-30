@@ -291,13 +291,26 @@ def canon(name):
     return name
 
 
+def _load_model_preds(model_dir, date):
+    path = ROOT / "results" / model_dir / date / "predictions.csv"
+    if not path.exists():
+        return {}
+    out = {}
+    for r in csv.DictReader(open(path)):
+        if r["market_type"] != "match_1x2": continue
+        try: out[(r["match_id"], r["market_type"], r["outcome"])] = float(r["p_model"])
+        except ValueError: pass
+    return out
+
+
 def build_comparison():
     out = ROOT / "results" / "comparisons" / TODAY
     out.mkdir(parents=True, exist_ok=True)
 
-    elo_preds = {}
-    for r in csv.DictReader(open(ROOT/"results"/"elo-baseline"/TODAY/"predictions.csv")):
-        elo_preds[(r["match_id"], r["market_type"], canon(r["outcome"]))] = float(r["p_model"])
+    elo_preds    = _load_model_preds("elo-baseline",  TODAY)
+    poi_preds    = _load_model_preds("poisson-goals", TODAY)
+    form_preds   = _load_model_preds("form-last-10",  TODAY)
+    e3_preds     = _load_model_preds("ensemble-e3",   TODAY)
 
     kalshi = {}
     for r in csv.DictReader(open(ROOT/"data"/"derived"/f"kalshi_snapshot_{TODAY}.csv")):
@@ -310,26 +323,58 @@ def build_comparison():
         if not r["yes_price"]: continue
         poly[(r["match_id"], r["market_type"], canon(r["outcome"]))] = (float(r["yes_price"]), float(r["volume_24h"] or 0))
 
-    rows = []
-    for k in sorted(set(elo_preds) | set(kalshi) | set(poly)):
-        mid, mt, o = k
-        pe = elo_preds.get(k)
-        pk, vk = kalshi.get(k, (None, 0))
-        pp, vp = poly.get(k, (None, 0))
-        rows.append(dict(match_id=mid, market_type=mt, outcome=o,
-            p_elo_baseline=round(pe,3) if pe else "",
-            p_kalshi=round(pk,3) if pk else "", v_kalshi=int(vk),
-            p_polymarket=round(pp,3) if pp else "", v_polymarket=int(vp),
-            elo_vs_kalshi=round(pe-pk,3) if pe and pk else "",
-            elo_vs_poly=round(pe-pp,3) if pe and pp else "",
-            kalshi_vs_poly=round(pk-pp,3) if pk and pp else ""))
+    # Pre-compute golden_zone per match: all 3 base models agree on same favourite
+    match_ids = {k[0] for k in set(elo_preds)|set(poi_preds)|set(form_preds) if k[0].startswith("WC26-")}
+    golden_zones = {}
+    for mid in match_ids:
+        favs = []
+        for preds in (elo_preds, poi_preds, form_preds):
+            probs = {o: preds.get((mid,"match_1x2",o)) for o in ("home","draw","away")}
+            probs = {o: v for o, v in probs.items() if v is not None}
+            if probs: favs.append(max(probs, key=probs.__getitem__))
+        golden_zones[mid] = 1 if len(favs) == 3 and len(set(favs)) == 1 else 0
 
-    cols = ["match_id","market_type","outcome","p_elo_baseline","p_kalshi","v_kalshi",
-            "p_polymarket","v_polymarket","elo_vs_kalshi","elo_vs_poly","kalshi_vs_poly"]
+    all_keys = set(elo_preds) | set(poi_preds) | set(form_preds) | set(e3_preds) | set(kalshi) | set(poly)
+
+    rows = []
+    for k in sorted(all_keys):
+        mid, mt, o = k
+        pe   = elo_preds.get(k)
+        pp   = poi_preds.get(k)
+        pf   = form_preds.get(k)
+        pe3  = e3_preds.get(k)
+        pk, vk = kalshi.get(k, (None, 0))
+        ppm, vp = poly.get(k, (None, 0))
+
+        base = [v for v in (pe, pp, pf) if v is not None]
+        pv2 = round(sum(base)/len(base), 4) if len(base) == 3 else None
+
+        gz = golden_zones.get(mid, 0) if mt == "match_1x2" else ""
+        edge = round(pv2 - pk, 4) if (pv2 is not None and pk is not None) else ""
+        opportunity = "✅" if (gz == 1 and isinstance(edge, float) and edge > 0.03) else ""
+
+        rows.append(dict(
+            match_id=mid, market_type=mt, outcome=o,
+            p_elo=round(pe,3) if pe else "",
+            p_poisson=round(pp,3) if pp else "",
+            p_form=round(pf,3) if pf else "",
+            p_ensemble_e3=round(pe3,3) if pe3 else "",
+            p_ensemble_v2=pv2 if pv2 else "",
+            p_kalshi=round(pk,3) if pk else "", v_kalshi=int(vk),
+            p_polymarket=round(ppm,3) if ppm else "", v_polymarket=int(vp),
+            golden_zone=gz, edge=edge, opportunity=opportunity,
+        ))
+
+    cols = ["match_id","market_type","outcome",
+            "p_elo","p_poisson","p_form","p_ensemble_e3","p_ensemble_v2",
+            "p_kalshi","v_kalshi","p_polymarket","v_polymarket",
+            "golden_zone","edge","opportunity"]
     with open(out/"comparison.csv", "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols); w.writeheader()
         for r in rows: w.writerow({c: r.get(c,"") for c in cols})
-    print(f"[compare] wrote {len(rows)} rows to comparison.csv")
+
+    opps = sum(1 for r in rows if r.get("opportunity") == "✅")
+    print(f"[compare] wrote {len(rows)} rows to comparison.csv  ({opps} opportunity flags)")
     print(f"[compare] (regenerate comparison.md and actionable.md from comparison.csv)")
 
 

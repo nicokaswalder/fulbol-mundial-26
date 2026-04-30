@@ -1,0 +1,65 @@
+as_of_date,match,score,p_home,p_draw,p_away,pred,actual,correct,model_version
+2022-11-19,Qatar vs Ecuador,0-2,0.2069,0.2778,0.5152,A,A,✓,poisson-xg
+2022-11-19,Senegal vs Netherlands,0-2,0.2294,0.2864,0.4842,A,A,✓,poisson-xg
+2022-11-19,England vs Iran,6-2,0.1979,0.2594,0.5427,A,H,✗,poisson-xg
+2022-11-19,United States vs Wales,1-1,0.6617,0.2366,0.1017,H,D,✗,poisson-xg
+2022-11-19,Argentina vs Saudi Arabia,1-2,0.4728,0.3841,0.1432,H,A,✗,poisson-xg
+2022-11-19,Mexico vs Poland,0-0,0.5865,0.2573,0.1562,H,D,✗,poisson-xg
+2022-11-19,Denmark vs Tunisia,0-0,0.2366,0.2903,0.4731,A,D,✗,poisson-xg
+2022-11-19,France vs Australia,4-1,0.2734,0.3246,0.402,A,H,✗,poisson-xg
+2022-11-19,Germany vs Japan,1-2,0.1736,0.257,0.5694,A,A,✓,poisson-xg
+2022-11-19,Spain vs Costa Rica,7-0,0.3071,0.2658,0.4271,A,H,✗,poisson-xg
+2022-11-19,Morocco vs Croatia,0-0,0.5816,0.2116,0.2068,H,D,✗,poisson-xg
+2022-11-19,Belgium vs Canada,1-0,0.1706,0.2406,0.5888,A,H,✗,poisson-xg
+2022-11-19,Portugal vs Ghana,3-2,0.5916,0.2951,0.1134,H,H,✓,poisson-xg
+2022-11-19,Uruguay vs South Korea,0-0,0.4011,0.33,0.2689,H,D,✗,poisson-xg
+2022-11-19,Switzerland vs Cameroon,1-0,0.2625,0.2484,0.4891,A,H,✗,poisson-xg
+2022-11-19,Brazil vs Serbia,2-0,0.816,0.1352,0.0488,H,H,✓,poisson-xg
+2022-11-19,Qatar vs Senegal,1-3,0.3531,0.3149,0.332,H,A,✗,poisson-xg
+2022-11-19,Netherlands vs Ecuador,1-1,0.3136,0.2922,0.3942,A,D,✗,poisson-xg
+2022-11-19,Wales vs Iran,0-2,0.1351,0.2884,0.5765,A,A,✓,poisson-xg
+2022-11-19,England vs United States,0-0,0.1484,0.2174,0.6342,A,D,✗,poisson-xg
+2022-11-19,Poland vs Saudi Arabia,2-0,0.1663,0.3266,0.5071,A,H,✗,poisson-xg
+2022-11-19,Argentina vs Mexico,2-0,0.5213,0.3199,0.1589,H,H,✓,poisson-xg
+2022-11-19,Tunisia vs Australia,0-1,0.276,0.3595,0.3645,A,A,✓,poisson-xg
+2022-11-19,France vs Denmark,2-1,0.4778,0.2666,0.2557,H,H,✓,poisson-xg
+2022-11-19,Croatia vs Canada,4-1,0.0894,0.1367,0.7739,A,H,✗,poisson-xg
+2022-11-19,Japan vs Costa Rica,0-1,0.4466,0.3464,0.207,H,A,✗,poisson-xg
+2022-11-19,Spain vs Germany,1-1,0.3927,0.2227,0.3846,H,D,✗,poisson-xg
+2022-11-19,Belgium vs Morocco,0-2,0.3025,0.2888,0.4087,A,A,✓,poisson-xg
+2022-11-19,South Korea vs Ghana,2-3,0.476,0.3536,0.1704,H,A,✗,poisson-xg
+2022-11-19,Portugal vs Uruguay,2-0,0.3753,0.3256,0.2991,H,H,✓,poisson-xg
+2022-11-19,Cameroon vs Serbia,3-3,0.2912,0.2891,0.4197,A,D,✗,poisson-xg
+2022-11-19,Brazil vs Switzerland,1-0,0.9478,0.0408,0.0115,H,H,✓,poisson-xg
+2022-11-19,Ecuador vs Senegal,1-2,0.4989,0.3045,0.1966,H,A,✗,poisson-xg
+2022-11-19,Qatar vs Netherlands,0-2,0.2417,0.2624,0.4959,A,A,✓,poisson-xg
+2022-11-19,Wales vs England,0-3,0.2618,0.2564,0.4818,A,A,✓,poisson-xg
+2022-11-19,Iran vs United States,0-1,0.2651,0.3618,0.3732,A,A,✓,poisson-xg
+2022-11-19,Poland vs Argentina,0-2,0.0544,0.159,0.7866,A,A,✓,poisson-xg
+2022-11-19,Saudi Arabia vs Mexico,1-2,0.2794,0.415,0.3056,D,A,✗,poisson-xg
+2022-11-19,Australia vs Denmark,1-0,0.5503,0.2547,0.1951,H,H,✓,poisson-xg
+2022-11-19,Tunisia vs France,1-0,0.3394,0.3509,0.3097,D,H,✗,poisson-xg
+2022-11-19,Japan vs Spain,2-1,0.6392,0.1936,0.1672,H,H,✓,poisson-xg
+2022-11-19,Costa Rica vs Germany,2-4,0.3839,0.334,0.2821,H,A,✗,poisson-xg
+2022-11-19,Croatia vs Belgium,0-0,0.2575,0.2,0.5425,A,D,✗,poisson-xg
+2022-11-19,Canada vs Morocco,1-2,0.493,0.2991,0.2078,H,A,✗,poisson-xg
+2022-11-19,South Korea vs Portugal,2-1,0.236,0.3235,0.4405,A,H,✗,poisson-xg
+2022-11-19,Ghana vs Uruguay,0-2,0.1325,0.3128,0.5547,A,A,✓,poisson-xg
+2022-11-19,Serbia vs Switzerland,2-3,0.6142,0.1886,0.1972,H,A,✗,poisson-xg
+2022-11-19,Cameroon vs Brazil,1-0,0.0421,0.1611,0.7968,A,H,✗,poisson-xg
+2022-11-19,Netherlands vs United States,3-1,0.2151,0.2824,0.5025,A,H,✗,poisson-xg
+2022-11-19,Argentina vs Australia,2-1,0.4991,0.3246,0.1763,H,H,✓,poisson-xg
+2022-11-19,France vs Poland,3-1,0.5571,0.2588,0.1841,H,H,✓,poisson-xg
+2022-11-19,England vs Senegal,3-0,0.4092,0.2731,0.3177,H,H,✓,poisson-xg
+2022-11-19,Japan vs Croatia,1-1,0.7815,0.1343,0.0841,H,D,✗,poisson-xg
+2022-11-19,Brazil vs South Korea,4-1,0.7238,0.2094,0.0668,H,H,✓,poisson-xg
+2022-11-19,Portugal vs Switzerland,6-1,0.742,0.1588,0.0992,H,H,✓,poisson-xg
+2022-11-19,Morocco vs Spain,0-0,0.421,0.2408,0.3382,H,D,✗,poisson-xg
+2022-11-19,Croatia vs Brazil,1-1,0.0165,0.0492,0.9342,A,D,✗,poisson-xg
+2022-11-19,Netherlands vs Argentina,2-2,0.1217,0.2412,0.6371,A,D,✗,poisson-xg
+2022-11-19,Morocco vs Portugal,1-0,0.2591,0.3217,0.4193,A,H,✗,poisson-xg
+2022-11-19,England vs France,1-2,0.2493,0.2505,0.5002,A,A,✓,poisson-xg
+2022-11-19,Argentina vs Croatia,3-0,0.8338,0.1128,0.0535,H,H,✓,poisson-xg
+2022-11-19,France vs Morocco,2-0,0.3253,0.3248,0.3499,A,H,✗,poisson-xg
+2022-11-19,Croatia vs Morocco,2-1,0.2068,0.2116,0.5816,A,H,✗,poisson-xg
+2022-11-19,Argentina vs France,3-3,0.5791,0.2845,0.1364,H,D,✗,poisson-xg

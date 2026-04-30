@@ -1,136 +1,136 @@
 match_id,market_type,outcome,slug,yes_price,volume_24h,volume,liquidity
-GROUP-A-WC2026,group_winner,Mexico,will-mexico-win-group-a-in-the-2026-fifa-world-cup,0.465,396.3741799999999,17939.178022999993,11150.4388
-GROUP-A-WC2026,group_winner,South Korea,will-south-korea-win-group-a-in-the-2026-fifa-world-cup,0.215,619.855,10541.757402999996,19566.1839
+GROUP-A-WC2026,group_winner,Mexico,will-mexico-win-group-a-in-the-2026-fifa-world-cup,0.465,104.771838,17997.185680999995,14676.5006
+GROUP-A-WC2026,group_winner,South Korea,will-south-korea-win-group-a-in-the-2026-fifa-world-cup,0.215,646.225,10573.757402999996,25672.5727
 GROUP-A-WC2026,group_winner,Other,will-another-team-win-group-a-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-A-WC2026,group_winner,South Africa,will-south-africa-win-group-a-in-the-2026-fifa-world-cup,0.0525,15.25,244472.01550399992,16909.10301
-GROUP-A-WC2026,group_winner,Czechia,will-czechia-win-group-a-in-the-2026-fifa-world-cup,0.235,11.6441,7170.307303000001,9298.8733
-GROUP-B-WC2026,group_winner,Canada,will-canada-win-group-a-in-the-2026-fifa-world-cup,0.245,5,7080.665659,8649.7043
-GROUP-B-WC2026,group_winner,Qatar,will-qatar-win-group-a-in-the-2026-fifa-world-cup,0.027,,20400.166469,36404.3286
+GROUP-A-WC2026,group_winner,South Africa,will-south-africa-win-group-a-in-the-2026-fifa-world-cup,0.0525,50.659832,244522.67533599993,15714.35698
+GROUP-A-WC2026,group_winner,Czechia,will-czechia-win-group-a-in-the-2026-fifa-world-cup,0.235,11.6441,7170.307303000001,10682.3587
+GROUP-B-WC2026,group_winner,Canada,will-canada-win-group-a-in-the-2026-fifa-world-cup,0.25,5,7080.665659,8700.3414
+GROUP-B-WC2026,group_winner,Qatar,will-qatar-win-group-a-in-the-2026-fifa-world-cup,0.02,,20400.166469,36785.63059
 GROUP-B-WC2026,group_winner,Other,will-another-team-win-group-a-in-the-2026-fifa-world-cup-988,,0,0,0
-GROUP-B-WC2026,group_winner,Bosnia and Herzegovina,will-the-winner-of-bosnia-and-herzegovinaitalynorthern-irelandwales-win-group-a-in-the-2026-fifa-world-cup,0.215,5,12394.320074999994,18860.852
-GROUP-B-WC2026,group_winner,Switzerland,will-switzerland-win-group-a-in-the-2026-fifa-world-cup,0.505,3.773582,11586.169530999998,5324.5533
-GROUP-C-WC2026,group_winner,Scotland,will-scotland-win-group-c-in-the-2026-fifa-world-cup,0.0525,587.52,134946.1375539999,25398.7638
-GROUP-C-WC2026,group_winner,Brazil,will-brazil-win-group-c-in-the-2026-fifa-world-cup,0.695,502.93870000000004,31315.65652600002,15154.5817
+GROUP-B-WC2026,group_winner,Bosnia and Herzegovina,will-the-winner-of-bosnia-and-herzegovinaitalynorthern-irelandwales-win-group-a-in-the-2026-fifa-world-cup,0.215,70.06,12459.380074999995,23685.9525
+GROUP-B-WC2026,group_winner,Switzerland,will-switzerland-win-group-a-in-the-2026-fifa-world-cup,0.525,12.197164,11594.593112999997,8424.7982
+GROUP-C-WC2026,group_winner,Scotland,will-scotland-win-group-c-in-the-2026-fifa-world-cup,0.0525,499.98,134946.1375539999,26411.13014
+GROUP-C-WC2026,group_winner,Brazil,will-brazil-win-group-c-in-the-2026-fifa-world-cup,0.75,438.2987,31325.65652600002,15451.0273
 GROUP-C-WC2026,group_winner,Other,will-another-team-win-group-c-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-C-WC2026,group_winner,Haiti,will-haiti-win-group-c-in-the-2026-fifa-world-cup,0.024,74.641,20032.525320000004,28104.33951
-GROUP-C-WC2026,group_winner,Morocco,will-morocco-win-group-c-in-the-2026-fifa-world-cup,0.17,524.4071779999999,27696.007517999988,14698.6098
-GROUP-D-WC2026,group_winner,Paraguay,will-paraguay-win-group-d-in-the-2026-fifa-world-cup,0.175,,7761.267833999999,9003.1088
-GROUP-D-WC2026,group_winner,Türkiye,will-the-winner-of-kosovoromaniaslovakiatrkiye-playoff-win-group-d-in-the-2026-fifa-world-cup,0.375,1206.170302,11168.070806999998,9367.609
-GROUP-D-WC2026,group_winner,USA,will-usa-win-group-d-in-the-2026-fifa-world-cup,0.315,85.811218,9823.024140000009,15787.6127
-GROUP-D-WC2026,group_winner,Australia,will-australia-win-group-d-in-the-2026-fifa-world-cup,0.0815,20.35,4545.988814999997,36828.94763
+GROUP-C-WC2026,group_winner,Haiti,will-haiti-win-group-c-in-the-2026-fifa-world-cup,0.014,,20032.525320000004,28291.88226
+GROUP-C-WC2026,group_winner,Morocco,will-morocco-win-group-c-in-the-2026-fifa-world-cup,0.175,341.2338419999999,27712.674181999988,14577.3625
+GROUP-D-WC2026,group_winner,Paraguay,will-paraguay-win-group-d-in-the-2026-fifa-world-cup,0.175,,7761.267833999999,9661.8511
+GROUP-D-WC2026,group_winner,Türkiye,will-the-winner-of-kosovoromaniaslovakiatrkiye-playoff-win-group-d-in-the-2026-fifa-world-cup,0.34,2982.1451500000003,12966.115956999998,14240.0518
+GROUP-D-WC2026,group_winner,USA,will-usa-win-group-d-in-the-2026-fifa-world-cup,0.355,60.951218,9823.024140000009,15594.0625
+GROUP-D-WC2026,group_winner,Australia,will-australia-win-group-d-in-the-2026-fifa-world-cup,0.069,20.35,4545.988814999997,36841.84921
 GROUP-D-WC2026,group_winner,Other,will-another-team-win-group-d-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-E-WC2026,group_winner,Curaçao,will-curaao-win-group-e-in-the-2026-fifa-world-cup,0.025,279.546314,6818.027766999998,5668.14403
-GROUP-E-WC2026,group_winner,Ecuador,will-ecuador-win-group-e-in-the-2026-fifa-world-cup,0.155,5.263156,4664.979129,11735.6136
-GROUP-E-WC2026,group_winner,Germany,will-germany-win-group-e-in-the-2026-fifa-world-cup,0.725,38.887424,16106.768093000012,13669.5801
-GROUP-E-WC2026,group_winner,Ivory Coast,will-ivory-coast-win-group-e-in-the-2026-fifa-world-cup,0.0905,,4103.715964000001,14624.79913
+GROUP-E-WC2026,group_winner,Curaçao,will-curaao-win-group-e-in-the-2026-fifa-world-cup,0.0235,,6818.027766999998,4442.32566
+GROUP-E-WC2026,group_winner,Ecuador,will-ecuador-win-group-e-in-the-2026-fifa-world-cup,0.15,,4664.979129,9493.7308
+GROUP-E-WC2026,group_winner,Germany,will-germany-win-group-e-in-the-2026-fifa-world-cup,0.725,88.02742400000001,16169.858093000012,17741.3926
+GROUP-E-WC2026,group_winner,Ivory Coast,will-ivory-coast-win-group-e-in-the-2026-fifa-world-cup,0.0895,,4103.715964000001,15047.62456
 GROUP-E-WC2026,group_winner,Other,will-another-team-win-group-e-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-F-WC2026,group_winner,Tunisia,will-tunisia-win-group-f-in-the-2026-fifa-world-cup,0.0495,224.631324,19324.343415000003,31444.93437
-GROUP-F-WC2026,group_winner,Japan,will-japan-win-group-f-in-the-2026-fifa-world-cup,0.255,3602.7264850000006,35115.64633999999,21765.3443
+GROUP-F-WC2026,group_winner,Tunisia,will-tunisia-win-group-f-in-the-2026-fifa-world-cup,0.058,1020.266665,20344.610080000002,31194.92138
+GROUP-F-WC2026,group_winner,Japan,will-japan-win-group-f-in-the-2026-fifa-world-cup,0.255,650.2944259999999,35119.49249199999,24933.8699
 GROUP-F-WC2026,group_winner,Other,will-another-team-win-group-f-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-F-WC2026,group_winner,Netherlands,will-netherlands-win-group-f-in-the-2026-fifa-world-cup,0.555,937.7492039999998,26955.248996000017,17331.4444
-GROUP-F-WC2026,group_winner,Sweden,will-sweden-win-group-f-in-the-2026-fifa-world-cup,0.155,1604.123332,18704.869583000003,22004.02
-GROUP-G-WC2026,group_winner,New Zealand,will-new-zealand-win-group-g-in-the-2026-fifa-world-cup,0.0365,,4942.364628000001,39354.18623
-GROUP-G-WC2026,group_winner,Iran,will-iran-win-group-g-in-the-2026-fifa-world-cup,0.0815,,23585.355612000014,36819.54872
-GROUP-G-WC2026,group_winner,Egypt,will-egypt-win-group-g-in-the-2026-fifa-world-cup,0.14,11.333332,3343.938259,10459.6055
-GROUP-G-WC2026,group_winner,Belgium,will-belgium-win-group-g-in-the-2026-fifa-world-cup,0.695,301.388887,8178.634123999998,3398.6173
+GROUP-F-WC2026,group_winner,Netherlands,will-netherlands-win-group-f-in-the-2026-fifa-world-cup,0.54,2815.0972879999995,29057.23537600002,11814.1294
+GROUP-F-WC2026,group_winner,Sweden,will-sweden-win-group-f-in-the-2026-fifa-world-cup,0.165,2844.699362,21449.568945000003,15433.1737
+GROUP-G-WC2026,group_winner,New Zealand,will-new-zealand-win-group-g-in-the-2026-fifa-world-cup,0.02,,4942.364628000001,39448.95254
+GROUP-G-WC2026,group_winner,Iran,will-iran-win-group-g-in-the-2026-fifa-world-cup,0.08,,23585.355612000014,37272.94719
+GROUP-G-WC2026,group_winner,Egypt,will-egypt-win-group-g-in-the-2026-fifa-world-cup,0.14,,3343.938259,9939.1295
+GROUP-G-WC2026,group_winner,Belgium,will-belgium-win-group-g-in-the-2026-fifa-world-cup,0.69,322.498887,8199.744123999999,3765.9142
 GROUP-G-WC2026,group_winner,Other,will-another-team-win-group-g-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-H-WC2026,group_winner,Cape Verde,will-cape-verde-win-group-h-in-the-2026-fifa-world-cup,0.005,5,56661.524142999995,22667.18808
-GROUP-H-WC2026,group_winner,Uruguay,will-uruguay-win-group-h-in-the-2026-fifa-world-cup,0.135,108,5765.366999999999,13263.5091
-GROUP-H-WC2026,group_winner,Spain,will-spain-win-group-h-in-the-2026-fifa-world-cup,0.795,,14015.12677099999,10687.1251
-GROUP-H-WC2026,group_winner,Saudi Arabia,will-saudi-arabia-win-group-h-in-the-2026-fifa-world-cup,0.027,,92488.657465,35592.64389
+GROUP-H-WC2026,group_winner,Cape Verde,will-cape-verde-win-group-h-in-the-2026-fifa-world-cup,0.0045,5,56661.524142999995,22998.51584
+GROUP-H-WC2026,group_winner,Uruguay,will-uruguay-win-group-h-in-the-2026-fifa-world-cup,0.135,44.31,5801.677,14027.9162
+GROUP-H-WC2026,group_winner,Spain,will-spain-win-group-h-in-the-2026-fifa-world-cup,0.785,,14015.12677099999,14633.2637
+GROUP-H-WC2026,group_winner,Saudi Arabia,will-saudi-arabia-win-group-h-in-the-2026-fifa-world-cup,0.024,,92488.657465,35876.11765
 GROUP-H-WC2026,group_winner,Other,will-another-team-win-group-h-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-I-WC2026,group_winner,Senegal,will-senegal-win-group-i-in-the-2026-fifa-world-cup,0.09,,15782.083347,15534.0937
-GROUP-I-WC2026,group_winner,Norway,will-norway-win-group-i-in-the-2026-fifa-world-cup,0.22,39.4,12466.609298999998,17190.2458
-GROUP-I-WC2026,group_winner,France,will-france-win-group-i-in-the-2026-fifa-world-cup,0.685,557.312344,50501.32353799999,31505.0917
-GROUP-I-WC2026,group_winner,Iraq,will-the-winner-of-boliviairaqsuriname-playoff-win-group-i-in-the-2026-fifa-world-cup,0.027,167,42592.62099200001,15017.30676
+GROUP-I-WC2026,group_winner,Senegal,will-senegal-win-group-i-in-the-2026-fifa-world-cup,0.085,,15782.083347,18025.5094
+GROUP-I-WC2026,group_winner,Norway,will-norway-win-group-i-in-the-2026-fifa-world-cup,0.215,,12466.609298999998,19041.8454
+GROUP-I-WC2026,group_winner,France,will-france-win-group-i-in-the-2026-fifa-world-cup,0.685,557.312344,50501.32353799999,25854.3886
+GROUP-I-WC2026,group_winner,Iraq,will-the-winner-of-boliviairaqsuriname-playoff-win-group-i-in-the-2026-fifa-world-cup,0.0255,,42592.62099200001,15571.72284
 GROUP-I-WC2026,group_winner,Other,will-another-team-win-group-i-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-J-WC2026,group_winner,Algeria,will-algeria-win-group-j-in-the-2026-fifa-world-cup,0.0775,1.73,6554.732485,27849.56189
-GROUP-J-WC2026,group_winner,Jordan,will-jordan-win-group-j-in-the-2026-fifa-world-cup,0.0325,150.59,5386.438082999998,13319.48845
-GROUP-J-WC2026,group_winner,Argentina,will-argentina-win-group-j-in-the-2026-fifa-world-cup,0.755,3189.531574,32077.235492000003,6044.0142
-GROUP-J-WC2026,group_winner,Austria,will-austria-win-group-j-in-the-2026-fifa-world-cup,0.145,11.555554,14379.101576000005,18965.51
+GROUP-J-WC2026,group_winner,Algeria,will-algeria-win-group-j-in-the-2026-fifa-world-cup,0.061,1.73,6554.732485,28305.3535
+GROUP-J-WC2026,group_winner,Jordan,will-jordan-win-group-j-in-the-2026-fifa-world-cup,0.0335,150.59,5386.438082999998,13470.7794
+GROUP-J-WC2026,group_winner,Argentina,will-argentina-win-group-j-in-the-2026-fifa-world-cup,0.755,3189.531574,32077.235492000003,9677.1024
+GROUP-J-WC2026,group_winner,Austria,will-austria-win-group-j-in-the-2026-fifa-world-cup,0.155,16.764704000000002,14389.866280000004,22768.5559
 GROUP-J-WC2026,group_winner,Other,will-another-team-win-group-j-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-K-WC2026,group_winner,Colombia,will-colombia-win-group-k-in-the-2026-fifa-world-cup,0.265,27.03,6050.644073,7130.2277
-GROUP-K-WC2026,group_winner,Congo DR,will-the-democratic-republic-of-congo-win-group-k-in-the-2026-fifa-world-cup,0.0715,122.01,6800.969685000002,26873.62983
-GROUP-K-WC2026,group_winner,Portugal,will-portugal-win-group-k-in-the-2026-fifa-world-cup,0.675,1402.88,23727.13835999998,14923.6786
+GROUP-K-WC2026,group_winner,Colombia,will-colombia-win-group-k-in-the-2026-fifa-world-cup,0.26,176.986264,6200.600337000001,8764.7455
+GROUP-K-WC2026,group_winner,Congo DR,will-the-democratic-republic-of-congo-win-group-k-in-the-2026-fifa-world-cup,0.0705,218.65870300000003,6897.618388000002,27826.52177
+GROUP-K-WC2026,group_winner,Portugal,will-portugal-win-group-k-in-the-2026-fifa-world-cup,0.655,2752.31948,25216.57783999998,14743.8105
 GROUP-K-WC2026,group_winner,Other,will-another-team-win-group-k-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-K-WC2026,group_winner,Uzbekistan,will-uzbekistan-win-group-k-in-the-2026-fifa-world-cup,0.007,5,4444.821535,13995.8905
-GROUP-L-WC2026,group_winner,England,will-england-win-group-l-in-the-2026-fifa-world-cup,0.715,713.978885,14879.456273000005,10692.4633
-GROUP-L-WC2026,group_winner,Ghana,will-ghana-win-group-l-in-the-2026-fifa-world-cup,0.0575,,8194.599642000001,13384.93399
+GROUP-K-WC2026,group_winner,Uzbekistan,will-uzbekistan-win-group-k-in-the-2026-fifa-world-cup,0.005,178.702,4618.523534999999,14718.54448
+GROUP-L-WC2026,group_winner,England,will-england-win-group-l-in-the-2026-fifa-world-cup,0.715,1063.978885,15229.456273000005,14068.0871
+GROUP-L-WC2026,group_winner,Ghana,will-ghana-win-group-l-in-the-2026-fifa-world-cup,0.0575,,8194.599642000001,14233.63174
 GROUP-L-WC2026,group_winner,Other,will-another-team-win-group-l-in-the-2026-fifa-world-cup,,0,0,0
-GROUP-L-WC2026,group_winner,Croatia,will-croatia-win-group-l-in-the-2026-fifa-world-cup,0.19,5,5241.359373999999,10246.9999
-GROUP-L-WC2026,group_winner,Panama,will-panama-win-group-l-in-the-2026-fifa-world-cup,0.0225,,8702.473369000005,25306.94147
-POLY-EVT-98349,other,North America,will-north-america-win-the-2026-fifa-world-cup,0.021,1326.024544,197691.57370900002,55528.25404
-POLY-EVT-98349,other,Asia,will-asia-win-the-2026-fifa-world-cup,0.0215,1182.08359,220366.74741699998,44897.32516
-POLY-EVT-98349,other,Oceania,will-oceania-win-the-2026-fifa-world-cup,0.0025,420.89549999999997,235767.053068,52916.14389
-POLY-EVT-98349,other,Europe,will-europe-win-the-2026-fifa-world-cup,0.725,1146.399958,103734.84400599994,37929.8788
+GROUP-L-WC2026,group_winner,Croatia,will-croatia-win-group-l-in-the-2026-fifa-world-cup,0.185,5,5241.359373999999,11780.6031
+GROUP-L-WC2026,group_winner,Panama,will-panama-win-group-l-in-the-2026-fifa-world-cup,0.0145,,8702.473369000005,25687.80998
+POLY-EVT-98349,other,North America,will-north-america-win-the-2026-fifa-world-cup,0.021,65.454544,197691.57370900002,55051.8758
+POLY-EVT-98349,other,Asia,will-asia-win-the-2026-fifa-world-cup,0.0215,45.454544,220366.74741699998,45869.27092
+POLY-EVT-98349,other,Oceania,will-oceania-win-the-2026-fifa-world-cup,0.0025,706.426333,236108.103901,59220.10712
+POLY-EVT-98349,other,Europe,will-europe-win-the-2026-fifa-world-cup,0.725,2637.817258,106345.26400599994,39889.8969
 POLY-EVT-98349,other,Other,will-another-continent-win-the-2026-fifa-world-cup,,0,0,0
-POLY-EVT-98349,other,Africa,will-africa-win-the-2026-fifa-world-cup,0.028,66.766481,954859.1107520006,56412.49198
-POLY-EVT-98349,other,South America,will-south-america-win-the-2026-fifa-world-cup,0.21,98.359521,179839.00977599993,30716.135
-POLY-EVT-224530,other, World Cup game relocated away from Mexico?,will-a-world-cup-game-in-mexico-be-relocated-abroad,0.045,1048.873723,129021.5791179999,1705.78326
-POLY-EVT-414376,other,Italy,will-italy-replace-iran-in-the-2026-fifa-world-cup-298,0.1055,3493.976878,4753.787342,480.19129
-POLY-EVT-414376,other,No Replacement,will-no-country-replace-iran-in-the-2026-fifa-world-cup,0.695,583.835788,932.359541,297.9338
-POLY-EVT-414376,other,Bolivia,will-bolivia-replace-iran-in-the-2026-fifa-world-cup-579,0.0015,468.634666,553.694216,302.72408
-POLY-EVT-414376,other,UAE,will-uae-replace-iran-in-the-2026-fifa-world-cup-822,0.2045,731.241525,852.603553,321.34983
-POLY-EVT-414376,other,Other,will-another-country-replace-iran-in-the-2026-fifa-world-cup,0.0455,463.867116,584.8187660000001,385.26446
-OUTRIGHT-WC2026,outright_winner,Spain,will-spain-win-the-2026-fifa-world-cup-963,0.1535,718947.7152630007,17562154.94902428,10093992.46324
-OUTRIGHT-WC2026,outright_winner,New Zealand,will-new-zealand-win-the-2026-fifa-world-cup-635,0.0025,2883716.5071650003,26471595.041669317,5133093.36232
-OUTRIGHT-WC2026,outright_winner,Switzerland,will-switzerland-win-the-2026-fifa-world-cup,0.0095,134400.99083299996,14085677.383408347,2978051.43724
-OUTRIGHT-WC2026,outright_winner,England,will-england-win-the-2026-fifa-world-cup-937,0.1105,361536.9315609992,14473316.013896942,8659726.93483
+POLY-EVT-98349,other,Africa,will-africa-win-the-2026-fifa-world-cup,0.028,5.08,954859.1107520006,52569.10549
+POLY-EVT-98349,other,South America,will-south-america-win-the-2026-fifa-world-cup,0.205,18.82,179843.54977599994,28962.7936
+POLY-EVT-224530,other, World Cup game relocated away from Mexico?,will-a-world-cup-game-in-mexico-be-relocated-abroad,0.0495,548.937894,129275.89798099991,956.95979
+POLY-EVT-414376,other,Italy,will-italy-replace-iran-in-the-2026-fifa-world-cup-298,0.0895,2164.580331,5043.787342,835.60594
+POLY-EVT-414376,other,No Replacement,will-no-country-replace-iran-in-the-2026-fifa-world-cup,0.72,281.558162,991.5677029999999,524.729
+POLY-EVT-414376,other,Bolivia,will-bolivia-replace-iran-in-the-2026-fifa-world-cup-579,0.005,262.84999999999997,736.5192159999999,594.0827
+POLY-EVT-414376,other,UAE,will-uae-replace-iran-in-the-2026-fifa-world-cup-822,0.0045,156.38717,913.919817,726.13028
+POLY-EVT-414376,other,Other,will-another-country-replace-iran-in-the-2026-fifa-world-cup,0.045,146.397473,656.133856,462.18741
+OUTRIGHT-WC2026,outright_winner,Spain,will-spain-win-the-2026-fifa-world-cup-963,0.1535,712373.579355,17574715.888526298,1593921.51027
+OUTRIGHT-WC2026,outright_winner,New Zealand,will-new-zealand-win-the-2026-fifa-world-cup-635,0.0025,2889531.295665,26481653.85716932,4924453.21635
+OUTRIGHT-WC2026,outright_winner,Switzerland,will-switzerland-win-the-2026-fifa-world-cup,0.0095,124923.25635699998,14106031.108845346,2399586.05521
+OUTRIGHT-WC2026,outright_winner,England,will-england-win-the-2026-fifa-world-cup-937,0.1105,359723.04214899905,14511071.797379943,2141394.6959
 OUTRIGHT-WC2026,outright_winner,Team AM,will-team-am-win-the-2026-fifa-world-cup,,0,0,0
-OUTRIGHT-WC2026,outright_winner,France,will-france-win-the-2026-fifa-world-cup-924,0.1565,3375568.894941994,21787047.596640553,8768620.97339
-OUTRIGHT-WC2026,outright_winner,South Korea,will-south-korea-win-the-2026-fifa-world-cup-485,0.0045,1006094.655569,20545571.325053014,3767917.35192
-OUTRIGHT-WC2026,outright_winner,Haiti,will-haiti-win-the-2026-fifa-world-cup,0.0015,61198.72600000001,16127820.366820067,6435824.6133
-OUTRIGHT-WC2026,outright_winner,Brazil,will-brazil-win-the-2026-fifa-world-cup-183,0.0855,834266.4399320005,16003968.611082857,7515521.47704
-OUTRIGHT-WC2026,outright_winner,Jordan,will-jordan-win-the-2026-fifa-world-cup-233,0.0025,3313947.515999,23516135.286080677,6118879.80313
-OUTRIGHT-WC2026,outright_winner,Curaçao,will-curaao-win-the-2026-fifa-world-cup,0.0025,3234749.7113320003,33407021.493925087,5704709.24418
-OUTRIGHT-WC2026,outright_winner,Argentina,will-argentina-win-the-2026-fifa-world-cup-245,0.0865,781083.8716150007,15251397.53871717,6952641.18339
-OUTRIGHT-WC2026,outright_winner,Germany,will-germany-win-the-2026-fifa-world-cup-467,0.0515,161615.516315,14021410.512570737,6913462.01464
-OUTRIGHT-WC2026,outright_winner,Colombia,will-colombia-win-the-2026-fifa-world-cup-734,0.0165,70478.598457,13241332.730651777,5860374.68995
-OUTRIGHT-WC2026,outright_winner,Iran,will-iran-win-the-2026-fifa-world-cup-788,0.0025,4508232.835327,21338512.18179202,5696040.24927
-OUTRIGHT-WC2026,outright_winner,Portugal,will-portugal-win-the-2026-fifa-world-cup-912,0.0735,428552.92416300037,16514680.238467608,6844486.30747
-OUTRIGHT-WC2026,outright_winner,Ghana,will-ghana-win-the-2026-fifa-world-cup,0.0025,868469.516833,15957857.124512905,6185289.08342
-OUTRIGHT-WC2026,outright_winner,Netherlands,will-netherlands-win-the-2026-fifa-world-cup-739,0.0335,203013.143273,16000877.7051109,5934722.41527
-OUTRIGHT-WC2026,outright_winner,Algeria,will-algeria-win-the-2026-fifa-world-cup,0.0035,3673289.796833,19378179.31398174,6097039.60066
-OUTRIGHT-WC2026,outright_winner,Bosnia-Herzegovina,will-bosnia-herzegovina-win-the-2026-fifa-world-cup,0.0035,3344669.042997,8721171.507584026,6441620.99765
+OUTRIGHT-WC2026,outright_winner,France,will-france-win-the-2026-fifa-world-cup-924,0.1605,3702914.49843299,22138208.120597567,920209.64626
+OUTRIGHT-WC2026,outright_winner,South Korea,will-south-korea-win-the-2026-fifa-world-cup-485,0.0045,1007932.757326,20566796.181803014,4208846.88273
+OUTRIGHT-WC2026,outright_winner,Haiti,will-haiti-win-the-2026-fifa-world-cup,0.0015,78557.35299999999,16152503.546820067,5896687.47927
+OUTRIGHT-WC2026,outright_winner,Brazil,will-brazil-win-the-2026-fifa-world-cup-183,0.0855,823647.925626,16030202.444069859,1955859.07268
+OUTRIGHT-WC2026,outright_winner,Jordan,will-jordan-win-the-2026-fifa-world-cup-233,0.0025,3310829.7843310004,23527903.983412683,6042585.78168
+OUTRIGHT-WC2026,outright_winner,Curaçao,will-curaao-win-the-2026-fifa-world-cup,0.0025,3233214.289332,33411158.97392509,5621515.75114
+OUTRIGHT-WC2026,outright_winner,Argentina,will-argentina-win-the-2026-fifa-world-cup-245,0.0865,767813.907557001,15278864.60705716,1882665.58479
+OUTRIGHT-WC2026,outright_winner,Germany,will-germany-win-the-2026-fifa-world-cup-467,0.0515,145075.58989999993,14045375.630238738,1986385.81577
+OUTRIGHT-WC2026,outright_winner,Colombia,will-colombia-win-the-2026-fifa-world-cup-734,0.0165,70569.206389,13245415.855317779,3162513.88395
+OUTRIGHT-WC2026,outright_winner,Iran,will-iran-win-the-2026-fifa-world-cup-788,0.0025,4506758.407827,21343290.155292023,5636981.16221
+OUTRIGHT-WC2026,outright_winner,Portugal,will-portugal-win-the-2026-fifa-world-cup-912,0.0735,411464.8228770001,16541688.785907611,1513336.62844
+OUTRIGHT-WC2026,outright_winner,Ghana,will-ghana-win-the-2026-fifa-world-cup,0.0025,861374.286833,15962891.98251291,5711080.13671
+OUTRIGHT-WC2026,outright_winner,Netherlands,will-netherlands-win-the-2026-fifa-world-cup-739,0.0335,183861.10296800005,16016549.0580449,2013516.52509
+OUTRIGHT-WC2026,outright_winner,Algeria,will-algeria-win-the-2026-fifa-world-cup,0.0035,3671825.0143270004,19387346.322975736,5868705.63083
+OUTRIGHT-WC2026,outright_winner,Bosnia-Herzegovina,will-bosnia-herzegovina-win-the-2026-fifa-world-cup,0.0035,3373217.852326,8757977.133579025,6296585.67854
 OUTRIGHT-WC2026,outright_winner,Italy,will-italy-win-the-2026-fifa-world-cup-813,0.0,,8666273.297316846,
-OUTRIGHT-WC2026,outright_winner,USA,will-usa-win-the-2026-fifa-world-cup-467,0.0155,1912905.333757001,28830861.206057966,7184023.62571
-OUTRIGHT-WC2026,outright_winner,Canada,will-canada-win-the-2026-fifa-world-cup-755,0.0065,4118230.309927001,20262655.76803206,5999582.23674
-OUTRIGHT-WC2026,outright_winner,Turkiye,will-turkiye-win-the-2026-fifa-world-cup,0.0065,58019.994631,7717706.105658017,3319642.73874
-OUTRIGHT-WC2026,outright_winner,Uruguay,will-uruguay-win-the-2026-fifa-world-cup-932,0.0105,81655.312193,14370260.902123997,7499566.46805
+OUTRIGHT-WC2026,outright_winner,USA,will-usa-win-the-2026-fifa-world-cup-467,0.0155,1284744.0359369994,28844985.189852964,3820468.403
+OUTRIGHT-WC2026,outright_winner,Canada,will-canada-win-the-2026-fifa-world-cup-755,0.0065,4209454.812340002,20371234.818378076,5634508.56671
+OUTRIGHT-WC2026,outright_winner,Turkiye,will-turkiye-win-the-2026-fifa-world-cup,0.0065,56091.02552999999,7725095.2051740205,2973684.01564
+OUTRIGHT-WC2026,outright_winner,Uruguay,will-uruguay-win-the-2026-fifa-world-cup-932,0.0105,33777.661609,14375269.706607994,4505300.65284
 OUTRIGHT-WC2026,outright_winner,Team AI,will-team-ai-win-the-2026-fifa-world-cup,,0,0,0
-OUTRIGHT-WC2026,outright_winner,Mexico,will-mexico-win-the-2026-fifa-world-cup-529,0.0105,48631.011632,15658014.62387632,6003845.17239
-OUTRIGHT-WC2026,outright_winner,Paraguay,will-paraguay-win-the-2026-fifa-world-cup-967,0.0045,578135.255,17334339.092444353,5623608.28433
-OUTRIGHT-WC2026,outright_winner,Scotland,will-scotland-win-the-2026-fifa-world-cup,0.0035,74723.22098799997,16631968.930015193,5290445.22795
+OUTRIGHT-WC2026,outright_winner,Mexico,will-mexico-win-the-2026-fifa-world-cup-529,0.0105,69569.44517600001,15683034.521052327,3150079.44997
+OUTRIGHT-WC2026,outright_winner,Paraguay,will-paraguay-win-the-2026-fifa-world-cup-967,0.0045,576314.94575,17336814.374194358,5434076.8937
+OUTRIGHT-WC2026,outright_winner,Scotland,will-scotland-win-the-2026-fifa-world-cup,0.0035,55151.91032100002,16637033.447009195,5090002.20466
 OUTRIGHT-WC2026,outright_winner,Peru,will-peru-win-the-2026-fifa-world-cup-981,0.0,,264589.508269,
-OUTRIGHT-WC2026,outright_winner,Japan,will-japan-win-the-2026-fifa-world-cup-112,0.0215,58590.405535,17513718.261962034,4618901.5693
-OUTRIGHT-WC2026,outright_winner,Norway,will-norway-win-the-2026-fifa-world-cup-893,0.0235,110285.79445099992,13808942.002611322,6627189.03189
+OUTRIGHT-WC2026,outright_winner,Japan,will-japan-win-the-2026-fifa-world-cup-112,0.0215,135056.618177,17597811.898318037,1450528.118
+OUTRIGHT-WC2026,outright_winner,Norway,will-norway-win-the-2026-fifa-world-cup-893,0.0235,124180.89652099993,13829894.772607325,2454262.05673
 OUTRIGHT-WC2026,outright_winner,Other,will-any-other-team-win-the-2026-fifa-world-cup-541-319-294-845-754-317-243-911-472-778-811-233-235-839-426-488,,0,0,0
 OUTRIGHT-WC2026,outright_winner,Team AG,will-team-ag-win-the-2026-fifa-world-cup,,0,0,0
-OUTRIGHT-WC2026,outright_winner,Tunisia,will-tunisia-win-the-2026-fifa-world-cup-165,0.0035,3885963.8743290002,19562561.984180193,6455576.45792
+OUTRIGHT-WC2026,outright_winner,Tunisia,will-tunisia-win-the-2026-fifa-world-cup-165,0.0035,3954523.0056580002,19642071.274509188,6154888.52697
 OUTRIGHT-WC2026,outright_winner,Team AH,will-team-ah-win-the-2026-fifa-world-cup,,0,0,0
-OUTRIGHT-WC2026,outright_winner,Ecuador,will-ecuador-win-the-2026-fifa-world-cup-986,0.0075,60763.45998600001,17610402.42945379,3594823.74028
-OUTRIGHT-WC2026,outright_winner,Uzbekistan,will-uzbekistan-win-the-2026-fifa-world-cup-773,0.0025,2922125.3713320005,36396392.23903209,5043236.49472
-OUTRIGHT-WC2026,outright_winner,Morocco,will-morocco-win-the-2026-fifa-world-cup-464,0.0175,455220.71090400015,16281618.225547155,4675501.73071
-OUTRIGHT-WC2026,outright_winner,Panama,will-team-z-win-the-2026-fifa-world-cup-316,0.0025,3720692.980999,10599067.248103004,6310272.29948
-OUTRIGHT-WC2026,outright_winner,Iraq,will-iraq-win-the-2026-fifa-world-cup,0.0025,3516038.0734990006,10226006.797495969,6277710.72951
-OUTRIGHT-WC2026,outright_winner,South Africa,will-south-africa-win-the-2026-fifa-world-cup,0.0025,534299.902831,24661497.723241925,5858901.45533
-OUTRIGHT-WC2026,outright_winner,Senegal,will-senegal-win-the-2026-fifa-world-cup,0.0075,649603.1063040001,14603681.79535846,4124808.76339
-OUTRIGHT-WC2026,outright_winner,Ivory Coast,will-ivory-coast-win-the-2026-fifa-world-cup,0.0045,4229307.433244,18916713.717701785,6471221.24189
-OUTRIGHT-WC2026,outright_winner,Congo DR,will-congo-dr-win-the-2026-fifa-world-cup,0.0025,2221493.361666,14070030.271301039,4520066.95601
-OUTRIGHT-WC2026,outright_winner,Cape Verde,will-cape-verde-win-the-2026-fifa-world-cup,0.0025,3467261.751378,20345918.45067777,5647233.66905
-OUTRIGHT-WC2026,outright_winner,Czechia,will-czechia-win-the-2026-fifa-world-cup,0.0035,1501220.404663,7292739.3038869845,5138737.58388
-OUTRIGHT-WC2026,outright_winner,Qatar,will-qatar-win-the-2026-fifa-world-cup,0.0025,4154378.618325999,21905915.503014818,6376377.35954
-OUTRIGHT-WC2026,outright_winner,Belgium,will-belgium-win-the-2026-fifa-world-cup-358,0.0195,291891.10705800005,14649594.886572093,5748496.15418
-OUTRIGHT-WC2026,outright_winner,Australia,will-australia-win-the-2026-fifa-world-cup-816,0.0025,2096334.7668289999,19908483.989204954,5816889.09727
-OUTRIGHT-WC2026,outright_winner,Saudi Arabia,will-saudi-arabia-win-the-2026-fifa-world-cup,0.0025,2414781.290331,24760784.525903504,6054123.8311
+OUTRIGHT-WC2026,outright_winner,Ecuador,will-ecuador-win-the-2026-fifa-world-cup-986,0.0075,62941.39998599999,17622243.903732784,3017784.14073
+OUTRIGHT-WC2026,outright_winner,Uzbekistan,will-uzbekistan-win-the-2026-fifa-world-cup-773,0.0025,2929514.299497001,36406467.67819711,4964975.96008
+OUTRIGHT-WC2026,outright_winner,Morocco,will-morocco-win-the-2026-fifa-world-cup-464,0.0175,409475.8344740002,16297868.545378152,1952938.44592
+OUTRIGHT-WC2026,outright_winner,Panama,will-team-z-win-the-2026-fifa-world-cup-316,0.0025,3743906.621499,10623123.519603008,6265660.03232
+OUTRIGHT-WC2026,outright_winner,Iraq,will-iraq-win-the-2026-fifa-world-cup,0.0025,3517343.0414990005,10230883.430495972,5765370.75857
+OUTRIGHT-WC2026,outright_winner,South Africa,will-south-africa-win-the-2026-fifa-world-cup,0.0025,548909.051165,24681454.577741932,5575664.11076
+OUTRIGHT-WC2026,outright_winner,Senegal,will-senegal-win-the-2026-fifa-world-cup,0.0075,657273.8749660001,14619720.672352457,3302025.34017
+OUTRIGHT-WC2026,outright_winner,Ivory Coast,will-ivory-coast-win-the-2026-fifa-world-cup,0.0045,4232990.872828,18925726.624951784,6103201.45215
+OUTRIGHT-WC2026,outright_winner,Congo DR,will-congo-dr-win-the-2026-fifa-world-cup,0.0025,2155503.802497,14095123.44413204,4215069.53726
+OUTRIGHT-WC2026,outright_winner,Cape Verde,will-cape-verde-win-the-2026-fifa-world-cup,0.0025,3448129.132544,20353875.44984377,5576592.87092
+OUTRIGHT-WC2026,outright_winner,Czechia,will-czechia-win-the-2026-fifa-world-cup,0.0035,1482223.1913310003,7300159.0538869845,4942851.18198
+OUTRIGHT-WC2026,outright_winner,Qatar,will-qatar-win-the-2026-fifa-world-cup,0.0025,4049431.1181589994,21911191.08284782,6103973.94753
+OUTRIGHT-WC2026,outright_winner,Belgium,will-belgium-win-the-2026-fifa-world-cup-358,0.0195,292413.428758,14655661.836572094,2672084.09766
+OUTRIGHT-WC2026,outright_winner,Australia,will-australia-win-the-2026-fifa-world-cup-816,0.0025,2092422.7608270003,19922996.774868958,5863994.75526
+OUTRIGHT-WC2026,outright_winner,Saudi Arabia,will-saudi-arabia-win-the-2026-fifa-world-cup,0.0025,2436171.9371600016,24784884.152732514,5491969.68828
 OUTRIGHT-WC2026,outright_winner,Team AL,will-team-al-win-the-2026-fifa-world-cup,,0,0,0
-OUTRIGHT-WC2026,outright_winner,Austria,will-austria-win-the-2026-fifa-world-cup,0.0065,901652.0041889999,15769213.347011397,3884519.80728
-OUTRIGHT-WC2026,outright_winner,Croatia,will-croatia-win-the-2026-fifa-world-cup,0.0105,1182914.4391349999,15058188.27383992,5970884.97185
+OUTRIGHT-WC2026,outright_winner,Austria,will-austria-win-the-2026-fifa-world-cup,0.0065,908663.3629499999,15781692.911838401,3374522.63219
+OUTRIGHT-WC2026,outright_winner,Croatia,will-croatia-win-the-2026-fifa-world-cup,0.0105,1201835.594976999,15089746.719111921,3105586.52401
 OUTRIGHT-WC2026,outright_winner,Team AN,will-team-an-win-the-2026-fifa-world-cup,,0,0,0
-OUTRIGHT-WC2026,outright_winner,Egypt,will-egypt-win-the-2026-fifa-world-cup,0.0045,4202184.544988001,21023546.661565326,4884554.68493
-OUTRIGHT-WC2026,outright_winner,Sweden,will-sweden-win-the-2026-fifa-world-cup,0.0065,1275045.5554059998,6840051.19775298,4810522.59508
+OUTRIGHT-WC2026,outright_winner,Egypt,will-egypt-win-the-2026-fifa-world-cup,0.0045,4151646.361912,21036027.578815326,4670446.21151
+OUTRIGHT-WC2026,outright_winner,Sweden,will-sweden-win-the-2026-fifa-world-cup,0.0065,1262401.60175,6845795.397029977,4210337.82102
 OUTRIGHT-WC2026,outright_winner,Team AJ,will-team-aj-win-the-2026-fifa-world-cup,,0,0,0
 OUTRIGHT-WC2026,outright_winner,Team AK,will-team-ak-win-the-2026-fifa-world-cup,,0,0,0
 OUTRIGHT-WC2026,outright_winner,Team AO,will-team-ao-win-the-2026-fifa-world-cup,,0,0,0
 POLY-EVT-38368,other,Will any 2026 FIFA World Cup game scheduled in the U.S. be relocated abroad?,will-any-2026-fifa-world-cup-game-scheduled-in-the-us-be-relocated-abroad,0.0755,22.14,10851.412878000003,5043.21779
-POLY-EVT-75515,other,Will Lionel Messi play in the 2026 FIFA World Cup?,will-lionel-messi-play-in-the-2026-fifa-world-cup,0.905,858.38015,78160.91640000006,5065.0032
+POLY-EVT-75515,other,Will Lionel Messi play in the 2026 FIFA World Cup?,will-lionel-messi-play-in-the-2026-fifa-world-cup,0.92,1793.511008,79645.41291200007,7951.5799

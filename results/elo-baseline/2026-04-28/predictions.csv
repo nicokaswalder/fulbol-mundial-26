@@ -5,15 +5,24 @@ as_of_date,match_id,market_type,outcome,p_model,confidence,model_version,notes
 2026-04-28,WC26-KOR-CZE-2026-06-11,match_1x2,home,0.3882,low,elo-baseline-v0.1,Elo: South Korea 1752 vs Czech Republic 1726
 2026-04-28,WC26-KOR-CZE-2026-06-11,match_1x2,draw,0.2776,low,elo-baseline-v0.1,Elo: South Korea 1752 vs Czech Republic 1726
 2026-04-28,WC26-KOR-CZE-2026-06-11,match_1x2,away,0.3342,low,elo-baseline-v0.1,Elo: South Korea 1752 vs Czech Republic 1726
+2026-04-28,WC26-CAN-BIH-2026-06-12,match_1x2,home,0.6908,low,elo-baseline-v0.1,Elo: Canada 1784 vs Bosnia and Herzegovina 1594
+2026-04-28,WC26-CAN-BIH-2026-06-12,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Canada 1784 vs Bosnia and Herzegovina 1594
+2026-04-28,WC26-CAN-BIH-2026-06-12,match_1x2,away,0.1592,low,elo-baseline-v0.1,Elo: Canada 1784 vs Bosnia and Herzegovina 1594
 2026-04-28,WC26-USA-PAR-2026-06-12,match_1x2,home,0.3204,low,elo-baseline-v0.1,Elo: United States 1721 vs Paraguay 1833
 2026-04-28,WC26-USA-PAR-2026-06-12,match_1x2,draw,0.2597,low,elo-baseline-v0.1,Elo: United States 1721 vs Paraguay 1833
 2026-04-28,WC26-USA-PAR-2026-06-12,match_1x2,away,0.4199,low,elo-baseline-v0.1,Elo: United States 1721 vs Paraguay 1833
+2026-04-28,WC26-QAT-SUI-2026-06-13,match_1x2,home,0.055,low,elo-baseline-v0.1,Elo: Qatar 1425 vs Switzerland 1889
+2026-04-28,WC26-QAT-SUI-2026-06-13,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Qatar 1425 vs Switzerland 1889
+2026-04-28,WC26-QAT-SUI-2026-06-13,match_1x2,away,0.795,low,elo-baseline-v0.1,Elo: Qatar 1425 vs Switzerland 1889
 2026-04-28,WC26-BRA-MAR-2026-06-13,match_1x2,home,0.5975,low,elo-baseline-v0.1,Elo: Brazil 1984 vs Morocco 1821
 2026-04-28,WC26-BRA-MAR-2026-06-13,match_1x2,draw,0.1687,low,elo-baseline-v0.1,Elo: Brazil 1984 vs Morocco 1821
 2026-04-28,WC26-BRA-MAR-2026-06-13,match_1x2,away,0.2338,low,elo-baseline-v0.1,Elo: Brazil 1984 vs Morocco 1821
 2026-04-28,WC26-AUS-TUR-2026-06-13,match_1x2,home,0.2677,low,elo-baseline-v0.1,Elo: Australia 1783 vs Turkey 1902
 2026-04-28,WC26-AUS-TUR-2026-06-13,match_1x2,draw,0.2011,low,elo-baseline-v0.1,Elo: Australia 1783 vs Turkey 1902
 2026-04-28,WC26-AUS-TUR-2026-06-13,match_1x2,away,0.5312,low,elo-baseline-v0.1,Elo: Australia 1783 vs Turkey 1902
+2026-04-28,WC26-GER-CUW-2026-06-14,match_1x2,home,0.8014,low,elo-baseline-v0.1,Elo: Germany 1923 vs Curaçao 1436
+2026-04-28,WC26-GER-CUW-2026-06-14,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Germany 1923 vs Curaçao 1436
+2026-04-28,WC26-GER-CUW-2026-06-14,match_1x2,away,0.0486,low,elo-baseline-v0.1,Elo: Germany 1923 vs Curaçao 1436
 2026-04-28,WC26-CIV-ECU-2026-06-14,match_1x2,home,0.1577,low,elo-baseline-v0.1,Elo: Ivory Coast 1676 vs Ecuador 1933
 2026-04-28,WC26-CIV-ECU-2026-06-14,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Ivory Coast 1676 vs Ecuador 1933
 2026-04-28,WC26-CIV-ECU-2026-06-14,match_1x2,away,0.6923,low,elo-baseline-v0.1,Elo: Ivory Coast 1676 vs Ecuador 1933
@@ -62,6 +71,12 @@ as_of_date,match_id,market_type,outcome,p_model,confidence,model_version,notes
 2026-04-28,WC26-MEX-KOR-2026-06-18,match_1x2,home,0.6092,low,elo-baseline-v0.1,Elo: Mexico 1858 vs South Korea 1752
 2026-04-28,WC26-MEX-KOR-2026-06-18,match_1x2,draw,0.1632,low,elo-baseline-v0.1,Elo: Mexico 1858 vs South Korea 1752
 2026-04-28,WC26-MEX-KOR-2026-06-18,match_1x2,away,0.2276,low,elo-baseline-v0.1,Elo: Mexico 1858 vs South Korea 1752
+2026-04-28,WC26-SUI-BIH-2026-06-18,match_1x2,home,0.7185,low,elo-baseline-v0.1,Elo: Switzerland 1889 vs Bosnia and Herzegovina 1594
+2026-04-28,WC26-SUI-BIH-2026-06-18,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Switzerland 1889 vs Bosnia and Herzegovina 1594
+2026-04-28,WC26-SUI-BIH-2026-06-18,match_1x2,away,0.1315,low,elo-baseline-v0.1,Elo: Switzerland 1889 vs Bosnia and Herzegovina 1594
+2026-04-28,WC26-CAN-QAT-2026-06-18,match_1x2,home,0.7819,low,elo-baseline-v0.1,Elo: Canada 1784 vs Qatar 1425
+2026-04-28,WC26-CAN-QAT-2026-06-18,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Canada 1784 vs Qatar 1425
+2026-04-28,WC26-CAN-QAT-2026-06-18,match_1x2,away,0.0681,low,elo-baseline-v0.1,Elo: Canada 1784 vs Qatar 1425
 2026-04-28,WC26-BRA-HAI-2026-06-19,match_1x2,home,0.7913,low,elo-baseline-v0.1,Elo: Brazil 1984 vs Haiti 1532
 2026-04-28,WC26-BRA-HAI-2026-06-19,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Brazil 1984 vs Haiti 1532
 2026-04-28,WC26-BRA-HAI-2026-06-19,match_1x2,away,0.0587,low,elo-baseline-v0.1,Elo: Brazil 1984 vs Haiti 1532
@@ -74,6 +89,9 @@ as_of_date,match_id,market_type,outcome,p_model,confidence,model_version,notes
 2026-04-28,WC26-GER-CIV-2026-06-20,match_1x2,home,0.6848,low,elo-baseline-v0.1,Elo: Germany 1923 vs Ivory Coast 1676
 2026-04-28,WC26-GER-CIV-2026-06-20,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Germany 1923 vs Ivory Coast 1676
 2026-04-28,WC26-GER-CIV-2026-06-20,match_1x2,away,0.1652,low,elo-baseline-v0.1,Elo: Germany 1923 vs Ivory Coast 1676
+2026-04-28,WC26-ECU-CUW-2026-06-20,match_1x2,home,0.804,low,elo-baseline-v0.1,Elo: Ecuador 1933 vs Curaçao 1436
+2026-04-28,WC26-ECU-CUW-2026-06-20,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Ecuador 1933 vs Curaçao 1436
+2026-04-28,WC26-ECU-CUW-2026-06-20,match_1x2,away,0.046,low,elo-baseline-v0.1,Elo: Ecuador 1933 vs Curaçao 1436
 2026-04-28,WC26-NED-SWE-2026-06-20,match_1x2,home,0.6809,low,elo-baseline-v0.1,Elo: Netherlands 1961 vs Sweden 1719
 2026-04-28,WC26-NED-SWE-2026-06-20,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Netherlands 1961 vs Sweden 1719
 2026-04-28,WC26-NED-SWE-2026-06-20,match_1x2,away,0.1691,low,elo-baseline-v0.1,Elo: Netherlands 1961 vs Sweden 1719
@@ -122,6 +140,9 @@ as_of_date,match_id,market_type,outcome,p_model,confidence,model_version,notes
 2026-04-28,WC26-CAN-SUI-2026-06-24,match_1x2,home,0.3251,low,elo-baseline-v0.1,Elo: Canada 1784 vs Switzerland 1889
 2026-04-28,WC26-CAN-SUI-2026-06-24,match_1x2,draw,0.2656,low,elo-baseline-v0.1,Elo: Canada 1784 vs Switzerland 1889
 2026-04-28,WC26-CAN-SUI-2026-06-24,match_1x2,away,0.4093,low,elo-baseline-v0.1,Elo: Canada 1784 vs Switzerland 1889
+2026-04-28,WC26-BIH-QAT-2026-06-24,match_1x2,home,0.6062,low,elo-baseline-v0.1,Elo: Bosnia and Herzegovina 1594 vs Qatar 1425
+2026-04-28,WC26-BIH-QAT-2026-06-24,match_1x2,draw,0.1646,low,elo-baseline-v0.1,Elo: Bosnia and Herzegovina 1594 vs Qatar 1425
+2026-04-28,WC26-BIH-QAT-2026-06-24,match_1x2,away,0.2292,low,elo-baseline-v0.1,Elo: Bosnia and Herzegovina 1594 vs Qatar 1425
 2026-04-28,WC26-MAR-HAI-2026-06-24,match_1x2,home,0.7146,low,elo-baseline-v0.1,Elo: Morocco 1821 vs Haiti 1532
 2026-04-28,WC26-MAR-HAI-2026-06-24,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Morocco 1821 vs Haiti 1532
 2026-04-28,WC26-MAR-HAI-2026-06-24,match_1x2,away,0.1354,low,elo-baseline-v0.1,Elo: Morocco 1821 vs Haiti 1532
@@ -131,6 +152,9 @@ as_of_date,match_id,market_type,outcome,p_model,confidence,model_version,notes
 2026-04-28,WC26-PAR-AUS-2026-06-25,match_1x2,home,0.4245,low,elo-baseline-v0.1,Elo: Paraguay 1833 vs Australia 1783
 2026-04-28,WC26-PAR-AUS-2026-06-25,match_1x2,draw,0.2571,low,elo-baseline-v0.1,Elo: Paraguay 1833 vs Australia 1783
 2026-04-28,WC26-PAR-AUS-2026-06-25,match_1x2,away,0.3184,low,elo-baseline-v0.1,Elo: Paraguay 1833 vs Australia 1783
+2026-04-28,WC26-CUW-CIV-2026-06-25,match_1x2,home,0.1706,low,elo-baseline-v0.1,Elo: Curaçao 1436 vs Ivory Coast 1676
+2026-04-28,WC26-CUW-CIV-2026-06-25,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Curaçao 1436 vs Ivory Coast 1676
+2026-04-28,WC26-CUW-CIV-2026-06-25,match_1x2,away,0.6794,low,elo-baseline-v0.1,Elo: Curaçao 1436 vs Ivory Coast 1676
 2026-04-28,WC26-ECU-GER-2026-06-25,match_1x2,home,0.3645,low,elo-baseline-v0.1,Elo: Ecuador 1933 vs Germany 1923
 2026-04-28,WC26-ECU-GER-2026-06-25,match_1x2,draw,0.2914,low,elo-baseline-v0.1,Elo: Ecuador 1933 vs Germany 1923
 2026-04-28,WC26-ECU-GER-2026-06-25,match_1x2,away,0.3441,low,elo-baseline-v0.1,Elo: Ecuador 1933 vs Germany 1923
@@ -173,35 +197,35 @@ as_of_date,match_id,market_type,outcome,p_model,confidence,model_version,notes
 2026-04-28,WC26-CRO-GHA-2026-06-27,match_1x2,home,0.7823,low,elo-baseline-v0.1,Elo: Croatia 1930 vs Ghana 1505
 2026-04-28,WC26-CRO-GHA-2026-06-27,match_1x2,draw,0.15,low,elo-baseline-v0.1,Elo: Croatia 1930 vs Ghana 1505
 2026-04-28,WC26-CRO-GHA-2026-06-27,match_1x2,away,0.0677,low,elo-baseline-v0.1,Elo: Croatia 1930 vs Ghana 1505
-2026-04-28,OUTRIGHT-WC2026,outright_winner,ESP,0.1098,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,ARG,0.0847,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,FRA,0.0725,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,BRA,0.0444,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,POR,0.0444,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,COL,0.0425,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,NED,0.0396,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,ECU,0.0344,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,CRO,0.0339,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,GER,0.0327,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,NOR,0.031,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,JPN,0.0298,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,TUR,0.0295,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,URU,0.028,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,SUI,0.0276,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,SEN,0.0261,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,DEN,0.0251,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,BEL,0.0246,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,MEX,0.0237,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,ITA,0.0234,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,PAR,0.0209,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,AUT,0.0203,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,MAR,0.0197,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,CAN,0.0163,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,AUS,0.0163,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,SRB,0.0152,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,UKR,0.015,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,IRI,0.0145,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,KOR,0.0139,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,NGA,0.0139,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,ALG,0.0133,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
-2026-04-28,OUTRIGHT-WC2026,outright_winner,PAN,0.0129,low,elo-baseline-v0.1,Softmax over Elo-ranked top 32; placeholder until tournament Monte Carlo built
+2026-04-28,OUTRIGHT-WC2026,outright_winner,ESP,0.1098,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,ARG,0.0847,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,FRA,0.0725,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,BRA,0.0444,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,POR,0.0444,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,COL,0.0425,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,NED,0.0396,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,ECU,0.0344,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,CRO,0.0339,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,GER,0.0327,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,NOR,0.031,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,JPN,0.0298,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,TUR,0.0295,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,URU,0.028,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,SUI,0.0276,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,SEN,0.0261,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,DEN,0.0251,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,BEL,0.0246,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,MEX,0.0237,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,ITA,0.0234,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,PAR,0.0209,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,AUT,0.0203,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,MAR,0.0197,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,CAN,0.0163,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,AUS,0.0163,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,SRB,0.0152,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,UKR,0.015,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,IRI,0.0145,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,KOR,0.0139,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,NGA,0.0139,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,ALG,0.0133,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
+2026-04-28,OUTRIGHT-WC2026,outright_winner,PAN,0.0129,low,elo-baseline-v0.1,Softmax over Elo top-32; placeholder until tournament Monte Carlo lands
